@@ -1,0 +1,9 @@
+[
+    {
+        "name": "salon bot",
+        "email": "superadmin@salonbot.com",
+        "password": "Test@123",
+        "phone": "6479522442",
+        "isVerified": true
+    }
+]

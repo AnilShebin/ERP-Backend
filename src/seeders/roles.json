@@ -1,0 +1,22 @@
+[
+    {
+        "name": "SuperAdmin",
+        "code": "SUPER_ADMIN"
+    },
+    {
+        "name": "Admin",
+        "code": "ADMIN"
+    },
+    {
+        "name": "SubAdmin",
+        "code": "SUB_ADMIN"
+    },
+    {
+        "name": "Employee",
+        "code": "EMPLOYEE"
+    },
+    {
+        "name": "Customer",
+        "code": "CUSTOMER"
+    }
+]
