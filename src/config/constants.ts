@@ -1,3 +1,5 @@
+// config/constants.ts
+
 import { config } from 'dotenv';
 config();
 

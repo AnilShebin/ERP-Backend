@@ -1,3 +1,5 @@
+//seeders/seederService.ts
+
 import fs from 'fs';
 import path from 'path';
 import * as bcrypt from 'bcryptjs';
@@ -45,7 +47,7 @@ async function initSeed() {
 
                 for (const superAdminData of superAdmins) {
                     const superAdminExists = await User.findOne({
-                        where: { email: superAdminData.email },
+                        where: { staff_id: superAdminData.staff_id },
                     });
 
                     if (!superAdminExists) {
@@ -55,7 +57,7 @@ async function initSeed() {
                         ); // Hash password
                         await User.create({
                             name: superAdminData.name,
-                            email: superAdminData.email,
+                            staff_id: superAdminData.staff_id,
                             phone: superAdminData.phone,
                             password: hashedPassword,
                             isVerified: superAdminData.isVerified,

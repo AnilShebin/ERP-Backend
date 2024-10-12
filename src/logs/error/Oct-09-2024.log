@@ -1,0 +1,43 @@
+error: Oct-09-2024 08:40:52: 	"phone" is not allowed
+error: Oct-09-2024 08:40:52: 	"phone" is not allowed
+error: Oct-09-2024 08:40:57: 	"roleId" is not allowed
+error: Oct-09-2024 08:40:57: 	"roleId" is not allowed
+error: Oct-09-2024 08:41:01: 	Expected double-quoted property name in JSON at position 94
+error: Oct-09-2024 08:41:14: 	Error in register service SequelizeValidationError: notNull Violation: User.roleId cannot be null
+error: Oct-09-2024 08:41:14: 	notNull Violation: User.roleId cannot be null
+error: Oct-09-2024 09:40:37: 	"phone" is not allowed
+error: Oct-09-2024 09:40:37: 	"phone" is not allowed
+error: Oct-09-2024 09:41:44: 	Error in register service SequelizeValidationError: notNull Violation: User.roleId cannot be null
+error: Oct-09-2024 09:41:44: 	notNull Violation: User.roleId cannot be null
+error: Oct-09-2024 09:42:28: 	Error in register service SequelizeValidationError: notNull Violation: User.roleId cannot be null
+error: Oct-09-2024 09:42:28: 	notNull Violation: User.roleId cannot be null
+error: Oct-09-2024 09:42:37: 	Error in register service SequelizeValidationError: notNull Violation: User.roleId cannot be null
+error: Oct-09-2024 09:42:37: 	notNull Violation: User.roleId cannot be null
+error: Oct-09-2024 09:42:42: 	Error in register service SequelizeValidationError: notNull Violation: User.roleId cannot be null
+error: Oct-09-2024 09:42:42: 	notNull Violation: User.roleId cannot be null
+error: Oct-09-2024 12:05:56: 	Error in connecting database: 
+error: Oct-09-2024 12:58:08: 	Error in register service Error: Email already registered.
+error: Oct-09-2024 12:58:08: 	Email already registered.
+error: Oct-09-2024 12:58:27: 	Error in register service SequelizeForeignKeyConstraintError: Cannot add or update a child row: a foreign key constraint fails (`login`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`roleId`) REFERENCES `roles` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE)
+error: Oct-09-2024 12:58:27: 	Cannot add or update a child row: a foreign key constraint fails (`login`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`roleId`) REFERENCES `roles` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE)
+error: Oct-09-2024 13:01:03: 	"roleId" is required
+error: Oct-09-2024 13:01:03: 	"roleId" is required
+error: Oct-09-2024 13:01:19: 	"isVerified" is not allowed
+error: Oct-09-2024 13:01:19: 	"isVerified" is not allowed
+error: Oct-09-2024 13:05:35: 	Route Not Found
+error: Oct-09-2024 13:05:46: 	Error in register service Error: Email already registered.
+error: Oct-09-2024 13:05:46: 	Email already registered.
+error: Oct-09-2024 15:40:32: 	Not authorized to access this route
+error: Oct-09-2024 15:41:14: 	Not authorized to access this route
+error: Oct-09-2024 15:41:15: 	Not authorized to access this route
+error: Oct-09-2024 15:43:44: 	Error in register service: Error: Email already registered
+error: Oct-09-2024 15:43:44: 	Email already registered
+error: Oct-09-2024 15:44:58: 	Not authorized to access this route
+error: Oct-09-2024 15:45:26: 	Not authorized to access this route
+error: Oct-09-2024 16:05:48: 	Error in register service: Error: Email already registered
+error: Oct-09-2024 16:05:48: 	Email already registered
+error: Oct-09-2024 16:54:20: 	Error in register service: Error: Staff_ID already registered
+error: Oct-09-2024 16:54:20: 	Staff_ID already registered
+error: Oct-09-2024 17:01:38: 	Not authorized to access this route
+error: Oct-09-2024 17:01:47: 	Error in register service: Error: Staff_ID already registered
+error: Oct-09-2024 17:01:47: 	Staff_ID already registered

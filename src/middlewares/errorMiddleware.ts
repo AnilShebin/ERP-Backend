@@ -1,3 +1,5 @@
+// middlewares/errorMiddleware.ts
+
 import { Request, Response, NextFunction } from 'express';
 import httpStatus from 'http-status';
 import ErrorHandler from '../utils/errorHandler'; // Assuming ErrorHandler is typed

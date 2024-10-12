@@ -1,7 +1,8 @@
 import { Router } from 'express';
-import superAdminRoutes from './superAdmin/index';
+import authRoutes from './auth';
 const router = Router();
 
-router.use('/super-admin', superAdminRoutes);
+// Unified authentication route
+router.use('/auth', authRoutes);
 
 export default router;

@@ -1,3 +1,5 @@
+// srver.ts
+
 import express, { Application } from 'express';
 import cors from 'cors';
 import helmet from 'helmet';
@@ -39,7 +41,7 @@ app.use(errorMiddleware);
 const port = process.env.PORT || 3000;
 
 app.listen(port, async () => {
-    logger.info('server is running on http://localhost:' + port);
+    logger.info('server is running on http:/localhost:' + port);
     try {
         await sequelize.authenticate();
         await sequelize.sync();

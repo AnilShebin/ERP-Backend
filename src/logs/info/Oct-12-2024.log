@@ -1,0 +1,90 @@
+info: Oct-12-2024 14:53:24: 	server is running on http:/localhost:3001
+info: Oct-12-2024 14:53:24: 	Roles and Super Admin seeded.
+info: Oct-12-2024 14:53:24: 	db connected
+error: Oct-12-2024 14:53:51: 	Route Not Found
+error: Oct-12-2024 14:56:59: 	Route Not Found
+info: Oct-12-2024 16:36:38: 	server is running on http:/localhost:3001
+info: Oct-12-2024 16:36:38: 	Roles and Super Admin seeded.
+info: Oct-12-2024 16:36:38: 	db connected
+info: Oct-12-2024 16:36:44: 	server is running on http:/localhost:3001
+info: Oct-12-2024 16:36:44: 	Roles and Super Admin seeded.
+info: Oct-12-2024 16:36:44: 	db connected
+info: Oct-12-2024 16:37:02: 	server is running on http:/localhost:3001
+info: Oct-12-2024 16:37:03: 	Roles and Super Admin seeded.
+info: Oct-12-2024 16:37:03: 	db connected
+error: Oct-12-2024 16:40:34: 	Route Not Found
+info: Oct-12-2024 16:41:45: 	server is running on http:/localhost:3001
+info: Oct-12-2024 16:41:45: 	Roles and Super Admin seeded.
+info: Oct-12-2024 16:41:45: 	db connected
+info: Oct-12-2024 16:42:31: 	server is running on http:/localhost:3001
+info: Oct-12-2024 16:42:31: 	Roles and Super Admin seeded.
+info: Oct-12-2024 16:42:31: 	db connected
+info: Oct-12-2024 16:42:43: 	server is running on http:/localhost:3001
+info: Oct-12-2024 16:42:43: 	Roles and Super Admin seeded.
+info: Oct-12-2024 16:42:43: 	db connected
+info: Oct-12-2024 16:42:55: 	server is running on http:/localhost:3001
+info: Oct-12-2024 16:42:55: 	Roles and Super Admin seeded.
+info: Oct-12-2024 16:42:55: 	db connected
+info: Oct-12-2024 16:43:09: 	server is running on http:/localhost:3001
+info: Oct-12-2024 16:43:09: 	Roles and Super Admin seeded.
+info: Oct-12-2024 16:43:09: 	db connected
+info: Oct-12-2024 16:43:12: 	server is running on http:/localhost:3001
+info: Oct-12-2024 16:43:12: 	Roles and Super Admin seeded.
+info: Oct-12-2024 16:43:12: 	db connected
+info: Oct-12-2024 16:44:22: 	server is running on http:/localhost:3001
+info: Oct-12-2024 16:44:22: 	Roles and Super Admin seeded.
+info: Oct-12-2024 16:44:22: 	db connected
+info: Oct-12-2024 16:44:27: 	server is running on http:/localhost:3001
+info: Oct-12-2024 16:44:27: 	Roles and Super Admin seeded.
+info: Oct-12-2024 16:44:27: 	db connected
+info: Oct-12-2024 17:02:53: 	server is running on http:/localhost:3001
+info: Oct-12-2024 17:02:53: 	Roles and Super Admin seeded.
+info: Oct-12-2024 17:02:53: 	db connected
+info: Oct-12-2024 17:03:01: 	server is running on http:/localhost:3001
+info: Oct-12-2024 17:03:01: 	Roles and Super Admin seeded.
+info: Oct-12-2024 17:03:01: 	db connected
+info: Oct-12-2024 17:03:11: 	server is running on http:/localhost:3001
+info: Oct-12-2024 17:03:11: 	Roles and Super Admin seeded.
+info: Oct-12-2024 17:03:11: 	db connected
+info: Oct-12-2024 17:03:17: 	server is running on http:/localhost:3001
+info: Oct-12-2024 17:03:17: 	Roles and Super Admin seeded.
+info: Oct-12-2024 17:03:17: 	db connected
+info: Oct-12-2024 17:03:31: 	server is running on http:/localhost:3001
+info: Oct-12-2024 17:03:31: 	Roles and Super Admin seeded.
+info: Oct-12-2024 17:03:31: 	db connected
+info: Oct-12-2024 17:03:38: 	server is running on http:/localhost:3001
+info: Oct-12-2024 17:03:38: 	Roles and Super Admin seeded.
+info: Oct-12-2024 17:03:38: 	db connected
+info: Oct-12-2024 17:08:12: 	server is running on http:/localhost:3001
+info: Oct-12-2024 17:08:12: 	Roles and Super Admin seeded.
+info: Oct-12-2024 17:08:12: 	db connected
+info: Oct-12-2024 17:12:28: 	server is running on http:/localhost:3001
+info: Oct-12-2024 17:12:28: 	Roles and Super Admin seeded.
+info: Oct-12-2024 17:12:28: 	db connected
+info: Oct-12-2024 17:12:30: 	server is running on http:/localhost:3001
+info: Oct-12-2024 17:12:30: 	Roles and Super Admin seeded.
+info: Oct-12-2024 17:12:30: 	db connected
+error: Oct-12-2024 17:48:31: 	Error in register service: Error: Staff_ID already registered
+error: Oct-12-2024 17:48:31: 	Staff_ID already registered
+info: Oct-12-2024 17:49:49: 	server is running on http:/localhost:3001
+info: Oct-12-2024 17:49:49: 	Roles and Super Admin seeded.
+info: Oct-12-2024 17:49:49: 	db connected
+info: Oct-12-2024 17:56:58: 	server is running on http:/localhost:3001
+info: Oct-12-2024 17:56:59: 	Roles and Super Admin seeded.
+info: Oct-12-2024 17:56:59: 	db connected
+error: Oct-12-2024 17:57:17: 	Not authorized to access this route
+info: Oct-12-2024 17:57:42: 	server is running on http:/localhost:3001
+info: Oct-12-2024 17:57:42: 	Roles and Super Admin seeded.
+info: Oct-12-2024 17:57:42: 	db connected
+info: Oct-12-2024 17:57:45: 	server is running on http:/localhost:3001
+info: Oct-12-2024 17:57:45: 	Roles and Super Admin seeded.
+info: Oct-12-2024 17:57:45: 	db connected
+info: Oct-12-2024 17:57:52: 	server is running on http:/localhost:3001
+info: Oct-12-2024 17:57:52: 	Roles and Super Admin seeded.
+info: Oct-12-2024 17:57:52: 	db connected
+info: Oct-12-2024 17:58:02: 	server is running on http:/localhost:3001
+info: Oct-12-2024 17:58:03: 	Roles and Super Admin seeded.
+info: Oct-12-2024 17:58:03: 	db connected
+info: Oct-12-2024 17:58:14: 	server is running on http:/localhost:3001
+info: Oct-12-2024 17:58:14: 	Roles and Super Admin seeded.
+info: Oct-12-2024 17:58:14: 	db connected

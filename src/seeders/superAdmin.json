@@ -1,9 +1,9 @@
 [
     {
-        "name": "salon bot",
-        "email": "superadmin@salonbot.com",
-        "password": "Test@123",
-        "phone": "6479522442",
+        "name": "Anil Shebin S J",
+        "staff_id": "1001",
+        "password": "Admin@123",
+        "phone": "94878274659",
         "isVerified": true
     }
 ]

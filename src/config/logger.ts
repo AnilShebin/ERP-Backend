@@ -1,23 +1,8 @@
+// config/logger.ts
+
 import moment from 'moment';
 import path from 'path';
 import { createLogger, transports, format, Logger } from 'winston';
-
-// const logger: Logger = createLogger({
-//     level: 'info',
-//     format: format.combine(
-//         format.colorize({ all: true }),
-//         format.timestamp({ format: 'DD-MM-YYYY HH:mm:ss' }),
-//         format.align(),
-//         format.printf((info) => {
-//             const { timestamp, level, message, ...args } = info;
-
-//             return `${timestamp} [${level}]: ${message} ${
-//                 Object.keys(args).length ? JSON.stringify(args, null, 2) : ''
-//             }`;
-//         })
-//     ),
-//     transports: new transports.Console(),
-// });
 
 const logger: Logger = createLogger({
     transports: [

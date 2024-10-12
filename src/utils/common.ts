@@ -1,29 +1,26 @@
-import * as bcrypt from 'bcryptjs';
-import * as jwt from 'jsonwebtoken';
-import { JWT_SECRET } from '../config/constants';
+import bcrypt from 'bcrypt';
+import jwt from 'jsonwebtoken';
+import { UserAttributes } from '../types/user';
 
-export const hashPassword = async (password: string): Promise<string> => {
-    const salt = await bcrypt.genSalt(10);
-    return await bcrypt.hash(password, salt);
+export const hashPassword = async (password: string) => {
+  const salt = await bcrypt.genSalt(10);
+  return await bcrypt.hash(password, salt);
 };
 
-export const comparePassword = async (
-    password: string,
-    hashPassword: string
-): Promise<boolean> => {
-    return await bcrypt.compare(password, hashPassword);
+export const comparePassword = async (inputPassword: string, hashedPassword: string) => {
+  return await bcrypt.hash(inputPassword, hashedPassword);
 };
 
-export const generateToken = (users: any): string => {
-    const payload = {
-        id: users.id,
-        email: users.email,
-        roleId: users.roleId,
-    };
-    const expiresIn = '1h';
-    return jwt.sign(payload, JWT_SECRET, { expiresIn });
-};
-
-export const verifyToken = (token: string, secret: string): any => {
-    return jwt.verify(token, secret);
+export const generateToken = (user: UserAttributes) => {
+  return jwt.sign(
+    { 
+      id: user.id, 
+      staff_id: user.staff_id, 
+      roleId: user.roleId 
+    }, 
+    process.env.JWT_SECRET!, 
+    { 
+      expiresIn: '1d' 
+    }
+  );
 };

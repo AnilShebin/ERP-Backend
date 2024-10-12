@@ -1,3 +1,5 @@
+// config/database.ts
+
 import { DB_HOST, DB_NAME, DB_PASSWORD, DB_USERNAME } from './constants';
 import { Sequelize } from 'sequelize';
 
