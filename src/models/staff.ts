@@ -1,21 +1,25 @@
+// models/staff.ts
 import { DataTypes, Model } from 'sequelize';
 import sequelize from '../config/database';
 import Role from './role'; // Import the Role model
 
 export interface StaffAttributes {
-  id?: number;
-  first_name: string;
-  last_name: string;
-  email: string;
-  phone: string;
-  gender: string;
-  alternate_number?: string;
-  roleId: number; // Changed from role (string) to roleId (number)
-  designation: string;
-  password: string;
-  documents_collected: boolean;
-  createdAt?: Date;
-  updatedAt?: Date;
+  id?: number; 
+  first_name: string; 
+  last_name: string; 
+  email: string; 
+  phone: string; 
+  gender: string; 
+  alternate_number?: string; 
+  roleId: number; 
+  designation: string; 
+  password: string; 
+  documents_collected: boolean; 
+  staff_id: string; // staff_id changed to string
+  isVerified: boolean; 
+  createdAt?: Date; 
+  updatedAt?: Date; 
+  role?: Role; // Keep this for role information
 }
 
 export class Staff extends Model<StaffAttributes> implements StaffAttributes {
@@ -25,16 +29,17 @@ export class Staff extends Model<StaffAttributes> implements StaffAttributes {
   public email!: string;
   public phone!: string;
   public gender!: string;
-  public alternate_number!: string;
-  public roleId!: number; // Changed from role (string) to roleId (number)
+  public alternate_number?: string; // Optional field
+  public roleId!: number;
   public designation!: string;
   public password!: string;
   public documents_collected!: boolean;
+  public staff_id!: string; // Correctly defined as string
+  public isVerified!: boolean;
   public readonly createdAt!: Date;
   public readonly updatedAt!: Date;
 }
 
-// Initialize the Staff model
 Staff.init(
   {
     first_name: {
@@ -48,7 +53,7 @@ Staff.init(
     email: {
       type: DataTypes.STRING,
       allowNull: false,
-      unique: true,
+      unique: true, // Added uniqueness to email
     },
     phone: {
       type: DataTypes.STRING,
@@ -62,7 +67,7 @@ Staff.init(
       type: DataTypes.STRING,
       allowNull: true,
     },
-    roleId: { // Added roleId as a foreign key
+    roleId: {
       type: DataTypes.INTEGER.UNSIGNED,
       allowNull: false,
       references: {
@@ -82,16 +87,25 @@ Staff.init(
       type: DataTypes.BOOLEAN,
       defaultValue: false,
     },
+    staff_id: {
+      type: DataTypes.STRING(100),
+      allowNull: false,
+      unique: true,
+    },
+    isVerified: {
+      type: DataTypes.BOOLEAN,
+      defaultValue: false,
+    },
   },
   {
     sequelize,
     modelName: 'Staff',
     tableName: 'staff',
-    timestamps: true, // Optional: Include timestamps
+    timestamps: true,
   }
 );
 
-// Establishing the association
+// Define relationship
 Staff.belongsTo(Role, { foreignKey: 'roleId', as: 'role' });
 
 export default Staff;

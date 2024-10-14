@@ -1,10 +1,10 @@
 import { Request, Response, NextFunction } from 'express';
 import jwt from 'jsonwebtoken';
 import httpStatus from 'http-status';
-import User from '../models/user';
-import Role from '../models/role';
+import Staff from '../models/staff'; // Adjust the model import
+import Role from '../models/role'; // Assuming Role model is still needed
 import ErrorHandler from '../utils/errorHandler';
-import { UserAttributes } from '../types/user';
+import { StaffAttributes } from '../models/staff'; // Change import to the Staff attributes
 
 interface DecodedToken {
   id: number;
@@ -15,7 +15,7 @@ interface DecodedToken {
 declare global {
   namespace Express {
     interface Request {
-      user?: UserAttributes;
+      user?: StaffAttributes; // Change to StaffAttributes
     }
   }
 }
@@ -34,15 +34,15 @@ export const protect = async (req: Request, res: Response, next: NextFunction) =
   try {
     const decoded = jwt.verify(token, process.env.JWT_SECRET!) as DecodedToken;
 
-    const user = await User.findByPk(decoded.id, {
+    const staff = await Staff.findByPk(decoded.id, {
       include: [{ model: Role, as: 'role' }]
     });
 
-    if (!user) {
-      return next(new ErrorHandler(httpStatus.NOT_FOUND, 'User not found'));
+    if (!staff) {
+      return next(new ErrorHandler(httpStatus.NOT_FOUND, 'Staff not found'));
     }
 
-    req.user = user.get({ plain: true }) as UserAttributes;
+    req.user = staff.get({ plain: true }) as StaffAttributes; // Change to StaffAttributes
     next();
   } catch (error) {
     return next(new ErrorHandler(httpStatus.UNAUTHORIZED, 'Not authorized to access this route'));
@@ -57,4 +57,3 @@ export const authorize = (...roles: string[]) => {
     next();
   };
 };
-

@@ -17,7 +17,11 @@ export const addStaff = async (req: Request, res: Response, next: NextFunction) 
 
 export const getStaff = async (req: Request, res: Response, next: NextFunction) => {
   try {
-    const staff = await staffService.getStaffById(parseInt(req.params.id));
+    const staffId = req.params.staffId; // Use 'staffId' as per the updated router
+    if (!staffId) {
+      return next(new ErrorHandler(httpStatus.BAD_REQUEST, 'Staff ID must be provided'));
+    }
+    const staff = await staffService.getStaffById(staffId);
     if (!staff) {
       return next(new ErrorHandler(httpStatus.NOT_FOUND, 'Staff member not found'));
     }
@@ -29,11 +33,15 @@ export const getStaff = async (req: Request, res: Response, next: NextFunction) 
 
 export const updateStaff = async (req: Request, res: Response, next: NextFunction) => {
   try {
-    const [affectedRows, updatedStaff] = await staffService.updateStaff(parseInt(req.params.id), req.body);
+    const staffId = req.params.staffId; // Use 'staffId' as per the updated router
+    if (!staffId) {
+      return next(new ErrorHandler(httpStatus.BAD_REQUEST, 'Staff ID must be provided'));
+    }
+    const [affectedRows, updatedStaff] = await staffService.updateStaff(staffId, req.body);
     if (affectedRows === 0) {
       return next(new ErrorHandler(httpStatus.NOT_FOUND, 'Staff member not found'));
     }
-    res.status(httpStatus.OK).json({ success: true, data: updatedStaff });
+    res.status(httpStatus.OK).json({ success: true, data: updatedStaff[0] });
   } catch (error) {
     next(error);
   }
@@ -41,7 +49,11 @@ export const updateStaff = async (req: Request, res: Response, next: NextFunctio
 
 export const deleteStaff = async (req: Request, res: Response, next: NextFunction) => {
   try {
-    const affectedRows = await staffService.deleteStaff(parseInt(req.params.id));
+    const staffId = req.params.staffId; // Use 'staffId' as per the updated router
+    if (!staffId) {
+      return next(new ErrorHandler(httpStatus.BAD_REQUEST, 'Staff ID must be provided'));
+    }
+    const affectedRows = await staffService.deleteStaff(staffId);
     if (affectedRows === 0) {
       return next(new ErrorHandler(httpStatus.NOT_FOUND, 'Staff member not found'));
     }

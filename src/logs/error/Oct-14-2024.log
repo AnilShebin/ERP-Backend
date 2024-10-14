@@ -47,3 +47,36 @@ error: Oct-14-2024 11:41:35: 	Not authorized to access this route
 error: Oct-14-2024 11:41:50: 	Unknown column 'role' in 'field list'
 error: Oct-14-2024 11:53:06: 	Unknown column 'roleId' in 'field list'
 error: Oct-14-2024 11:53:46: 	Role is required, "roleId" is not allowed
+error: Oct-14-2024 13:06:58: 	Error in login service: Error: Invalid credentials
+error: Oct-14-2024 13:06:58: 	Invalid credentials
+error: Oct-14-2024 13:09:29: 	Error seeding super admin: notNull Violation: Staff.first_name cannot be null,
+notNull Violation: Staff.last_name cannot be null,
+notNull Violation: Staff.email cannot be null
+error: Oct-14-2024 13:10:08: 	Error seeding super admin: notNull Violation: Staff.first_name cannot be null,
+notNull Violation: Staff.last_name cannot be null,
+notNull Violation: Staff.email cannot be null
+error: Oct-14-2024 13:11:14: 	Error seeding super admin: Expected double-quoted property name in JSON at position 118
+error: Oct-14-2024 13:11:21: 	Error seeding super admin: Expected double-quoted property name in JSON at position 118
+error: Oct-14-2024 13:16:59: 	Role ID is required, "staff_id" is not allowed, "isVerified" is not allowed
+error: Oct-14-2024 13:17:12: 	notNull Violation: Staff.staff_id cannot be null
+error: Oct-14-2024 13:17:46: 	"staff_id" is not allowed
+error: Oct-14-2024 13:18:40: 	"staff_id" is not allowed, "isVerified" is not allowed
+error: Oct-14-2024 13:20:04: 	Validation error
+error: Oct-14-2024 13:25:02: 	Validation error
+error: Oct-14-2024 13:31:18: 	Route Not Found
+error: Oct-14-2024 13:31:35: 	Staff member not found
+error: Oct-14-2024 13:53:09: 	Validation error
+error: Oct-14-2024 13:58:36: 	Staff member with ID 2007 not found
+error: Oct-14-2024 13:58:51: 	Staff member not found
+error: Oct-14-2024 13:58:57: 	Staff member not found
+error: Oct-14-2024 14:04:27: 	Staff member not found
+error: Oct-14-2024 14:04:46: 	Staff member not found
+error: Oct-14-2024 14:08:51: 	WHERE parameter "staff_id" has invalid "undefined" value
+error: Oct-14-2024 14:09:00: 	WHERE parameter "staff_id" has invalid "undefined" value
+error: Oct-14-2024 14:09:15: 	WHERE parameter "staff_id" has invalid "undefined" value
+error: Oct-14-2024 14:10:46: 	Validation error
+error: Oct-14-2024 14:10:58: 	WHERE parameter "staff_id" has invalid "undefined" value
+error: Oct-14-2024 14:14:02: 	Validation error
+error: Oct-14-2024 14:15:03: 	Error in login service: Error: Invalid credentials
+error: Oct-14-2024 14:15:03: 	Invalid credentials
+error: Oct-14-2024 14:17:22: 	Staff member not found

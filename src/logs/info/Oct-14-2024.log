@@ -200,3 +200,280 @@ info: Oct-14-2024 11:53:32: 	server is running on http:/localhost:3001
 info: Oct-14-2024 11:53:33: 	Roles and Super Admin seeded.
 info: Oct-14-2024 11:53:33: 	db connected
 error: Oct-14-2024 11:53:46: 	Role is required, "roleId" is not allowed
+info: Oct-14-2024 11:54:51: 	server is running on http:/localhost:3001
+info: Oct-14-2024 11:54:51: 	Roles and Super Admin seeded.
+info: Oct-14-2024 11:54:51: 	db connected
+info: Oct-14-2024 12:12:17: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:12:17: 	Roles and Super Admin seeded.
+info: Oct-14-2024 12:12:17: 	db connected
+info: Oct-14-2024 12:12:22: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:12:23: 	Roles and Super Admin seeded.
+info: Oct-14-2024 12:12:23: 	db connected
+info: Oct-14-2024 12:12:27: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:12:27: 	Roles and Super Admin seeded.
+info: Oct-14-2024 12:12:27: 	db connected
+info: Oct-14-2024 12:12:33: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:12:33: 	Roles and Super Admin seeded.
+info: Oct-14-2024 12:12:33: 	db connected
+info: Oct-14-2024 12:12:48: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:12:48: 	Roles and Super Admin seeded.
+info: Oct-14-2024 12:12:48: 	db connected
+info: Oct-14-2024 12:12:54: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:12:54: 	Roles and Super Admin seeded.
+info: Oct-14-2024 12:12:54: 	db connected
+info: Oct-14-2024 12:13:04: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:13:04: 	Roles and Super Admin seeded.
+info: Oct-14-2024 12:13:04: 	db connected
+info: Oct-14-2024 12:13:09: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:13:09: 	Roles and Super Admin seeded.
+info: Oct-14-2024 12:13:09: 	db connected
+info: Oct-14-2024 12:13:36: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:13:36: 	Roles and Super Admin seeded.
+info: Oct-14-2024 12:13:36: 	db connected
+info: Oct-14-2024 12:15:09: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:15:10: 	Roles and Super Admin seeded.
+info: Oct-14-2024 12:15:10: 	db connected
+info: Oct-14-2024 12:18:34: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:18:34: 	Roles and Super Admin seeded.
+info: Oct-14-2024 12:18:34: 	db connected
+info: Oct-14-2024 12:18:40: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:18:40: 	Roles and Super Admin seeded.
+info: Oct-14-2024 12:18:40: 	db connected
+info: Oct-14-2024 12:18:44: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:18:44: 	Roles and Super Admin seeded.
+info: Oct-14-2024 12:18:44: 	db connected
+info: Oct-14-2024 12:34:17: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:34:17: 	Roles and Super Admin seeded.
+info: Oct-14-2024 12:34:17: 	db connected
+info: Oct-14-2024 12:37:20: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:37:20: 	Roles and Super Admin seeded.
+info: Oct-14-2024 12:37:20: 	db connected
+info: Oct-14-2024 12:37:25: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:37:28: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:37:28: 	Roles and Super Admin seeded.
+info: Oct-14-2024 12:37:28: 	db connected
+info: Oct-14-2024 12:37:47: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:37:47: 	Roles and Super Admin seeded.
+info: Oct-14-2024 12:37:47: 	db connected
+info: Oct-14-2024 12:37:59: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:37:59: 	Roles and Super Admin seeded.
+info: Oct-14-2024 12:37:59: 	db connected
+info: Oct-14-2024 12:46:02: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:46:02: 	Roles and Super Admin seeded.
+info: Oct-14-2024 12:46:02: 	db connected
+info: Oct-14-2024 12:46:25: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:46:25: 	Roles and Super Admin seeded.
+info: Oct-14-2024 12:46:25: 	db connected
+info: Oct-14-2024 12:57:41: 	server is running on http:/localhost:3001
+info: Oct-14-2024 12:57:41: 	Roles and Super Admin seeded.
+info: Oct-14-2024 12:57:41: 	db connected
+info: Oct-14-2024 13:05:22: 	server is running on http:/localhost:3001
+info: Oct-14-2024 13:05:22: 	Roles and Super Admin seeded.
+info: Oct-14-2024 13:05:22: 	db connected
+info: Oct-14-2024 13:06:45: 	server is running on http:/localhost:3001
+info: Oct-14-2024 13:06:45: 	Roles and Super Admin seeded.
+info: Oct-14-2024 13:06:45: 	db connected
+error: Oct-14-2024 13:06:58: 	Error in login service: Error: Invalid credentials
+error: Oct-14-2024 13:06:58: 	Invalid credentials
+info: Oct-14-2024 13:09:29: 	server is running on http:/localhost:3001
+info: Oct-14-2024 13:09:29: 	Role already exists: SuperAdmin
+info: Oct-14-2024 13:09:29: 	Role already exists: Admin
+info: Oct-14-2024 13:09:29: 	Role already exists: SubAdmin
+info: Oct-14-2024 13:09:29: 	Role already exists: Employee
+info: Oct-14-2024 13:09:29: 	Role already exists: Guset
+error: Oct-14-2024 13:09:29: 	Error seeding super admin: notNull Violation: Staff.first_name cannot be null,
+notNull Violation: Staff.last_name cannot be null,
+notNull Violation: Staff.email cannot be null
+info: Oct-14-2024 13:09:29: 	Roles and Super Admin seeded successfully.
+info: Oct-14-2024 13:09:29: 	db connected
+info: Oct-14-2024 13:10:08: 	server is running on http:/localhost:3001
+info: Oct-14-2024 13:10:08: 	Role created: SuperAdmin
+info: Oct-14-2024 13:10:08: 	Role created: Admin
+info: Oct-14-2024 13:10:08: 	Role created: SubAdmin
+info: Oct-14-2024 13:10:08: 	Role created: Employee
+info: Oct-14-2024 13:10:08: 	Role created: Guset
+error: Oct-14-2024 13:10:08: 	Error seeding super admin: notNull Violation: Staff.first_name cannot be null,
+notNull Violation: Staff.last_name cannot be null,
+notNull Violation: Staff.email cannot be null
+info: Oct-14-2024 13:10:08: 	Roles and Super Admin seeded successfully.
+info: Oct-14-2024 13:10:08: 	db connected
+info: Oct-14-2024 13:11:14: 	server is running on http:/localhost:3001
+info: Oct-14-2024 13:11:14: 	Role already exists: SuperAdmin
+info: Oct-14-2024 13:11:14: 	Role already exists: Admin
+info: Oct-14-2024 13:11:14: 	Role already exists: SubAdmin
+info: Oct-14-2024 13:11:14: 	Role already exists: Employee
+info: Oct-14-2024 13:11:14: 	Role already exists: Guset
+error: Oct-14-2024 13:11:14: 	Error seeding super admin: Expected double-quoted property name in JSON at position 118
+info: Oct-14-2024 13:11:14: 	Roles and Super Admin seeded successfully.
+info: Oct-14-2024 13:11:14: 	db connected
+info: Oct-14-2024 13:11:21: 	server is running on http:/localhost:3001
+info: Oct-14-2024 13:11:21: 	Role already exists: SuperAdmin
+info: Oct-14-2024 13:11:21: 	Role already exists: Admin
+info: Oct-14-2024 13:11:21: 	Role already exists: SubAdmin
+info: Oct-14-2024 13:11:21: 	Role already exists: Employee
+info: Oct-14-2024 13:11:21: 	Role already exists: Guset
+error: Oct-14-2024 13:11:21: 	Error seeding super admin: Expected double-quoted property name in JSON at position 118
+info: Oct-14-2024 13:11:21: 	Roles and Super Admin seeded successfully.
+info: Oct-14-2024 13:11:21: 	db connected
+info: Oct-14-2024 13:11:26: 	server is running on http:/localhost:3001
+info: Oct-14-2024 13:11:26: 	Role already exists: SuperAdmin
+info: Oct-14-2024 13:11:26: 	Role already exists: Admin
+info: Oct-14-2024 13:11:26: 	Role already exists: SubAdmin
+info: Oct-14-2024 13:11:26: 	Role already exists: Employee
+info: Oct-14-2024 13:11:26: 	Role already exists: Guset
+info: Oct-14-2024 13:11:26: 	Super Admin created: Anil Shebin S J
+info: Oct-14-2024 13:11:27: 	Super Admin created: Sowmiya Sowmiya
+info: Oct-14-2024 13:11:27: 	Super Admin created: Keerthi Vasan
+info: Oct-14-2024 13:11:27: 	Roles and Super Admin seeded successfully.
+info: Oct-14-2024 13:11:27: 	db connected
+info: Oct-14-2024 13:13:04: 	server is running on http:/localhost:3001
+info: Oct-14-2024 13:13:04: 	Role already exists: SuperAdmin
+info: Oct-14-2024 13:13:04: 	Role already exists: Admin
+info: Oct-14-2024 13:13:04: 	Role already exists: SubAdmin
+info: Oct-14-2024 13:13:04: 	Role already exists: Employee
+info: Oct-14-2024 13:13:04: 	Role already exists: Guset
+info: Oct-14-2024 13:13:04: 	Super Admin already exists: Anil Shebin S J
+info: Oct-14-2024 13:13:04: 	Super Admin already exists: Sowmiya Sowmiya
+info: Oct-14-2024 13:13:04: 	Super Admin already exists: Keerthi Vasan
+info: Oct-14-2024 13:13:04: 	Roles and Super Admin seeded successfully.
+info: Oct-14-2024 13:13:04: 	db connected
+info: Oct-14-2024 13:13:11: 	server is running on http:/localhost:3001
+info: Oct-14-2024 13:13:12: 	Role already exists: SuperAdmin
+info: Oct-14-2024 13:13:12: 	Role already exists: Admin
+info: Oct-14-2024 13:13:12: 	Role already exists: SubAdmin
+info: Oct-14-2024 13:13:12: 	Role already exists: Employee
+info: Oct-14-2024 13:13:12: 	Role already exists: Guset
+info: Oct-14-2024 13:13:12: 	Super Admin already exists: Anil Shebin S J
+info: Oct-14-2024 13:13:12: 	Super Admin already exists: Sowmiya Sowmiya
+info: Oct-14-2024 13:13:12: 	Super Admin already exists: Keerthi Vasan
+info: Oct-14-2024 13:13:12: 	Roles and Super Admin seeded successfully.
+info: Oct-14-2024 13:13:12: 	db connected
+info: Oct-14-2024 13:15:17: 	server is running on http:/localhost:3001
+info: Oct-14-2024 13:15:17: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 13:15:17: 	Super Admin seeded successfully.
+info: Oct-14-2024 13:15:17: 	db connected
+error: Oct-14-2024 13:16:59: 	Role ID is required, "staff_id" is not allowed, "isVerified" is not allowed
+error: Oct-14-2024 13:17:12: 	notNull Violation: Staff.staff_id cannot be null
+error: Oct-14-2024 13:17:46: 	"staff_id" is not allowed
+error: Oct-14-2024 13:18:40: 	"staff_id" is not allowed, "isVerified" is not allowed
+info: Oct-14-2024 13:19:30: 	server is running on http:/localhost:3001
+info: Oct-14-2024 13:19:30: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 13:19:30: 	Super Admin seeded successfully.
+info: Oct-14-2024 13:19:30: 	db connected
+info: Oct-14-2024 13:19:49: 	server is running on http:/localhost:3001
+info: Oct-14-2024 13:19:49: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 13:19:49: 	Super Admin seeded successfully.
+info: Oct-14-2024 13:19:49: 	db connected
+error: Oct-14-2024 13:20:04: 	Validation error
+info: Oct-14-2024 13:24:51: 	server is running on http:/localhost:3001
+info: Oct-14-2024 13:24:51: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 13:24:51: 	Super Admin seeded successfully.
+info: Oct-14-2024 13:24:51: 	db connected
+error: Oct-14-2024 13:25:02: 	Validation error
+info: Oct-14-2024 13:25:33: 	server is running on http:/localhost:3001
+info: Oct-14-2024 13:25:34: 	Super Admin seeded successfully.
+info: Oct-14-2024 13:25:34: 	db connected
+info: Oct-14-2024 13:30:04: 	server is running on http:/localhost:3001
+info: Oct-14-2024 13:30:04: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 13:30:04: 	Super Admin seeded successfully.
+info: Oct-14-2024 13:30:04: 	db connected
+error: Oct-14-2024 13:31:18: 	Route Not Found
+error: Oct-14-2024 13:31:35: 	Staff member not found
+info: Oct-14-2024 13:53:00: 	server is running on http:/localhost:3001
+info: Oct-14-2024 13:53:00: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 13:53:00: 	Super Admin seeded successfully.
+info: Oct-14-2024 13:53:00: 	db connected
+error: Oct-14-2024 13:53:09: 	Validation error
+info: Oct-14-2024 13:54:31: 	server is running on http:/localhost:3001
+info: Oct-14-2024 13:54:31: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 13:54:31: 	Super Admin seeded successfully.
+info: Oct-14-2024 13:54:31: 	db connected
+info: Oct-14-2024 13:55:05: 	server is running on http:/localhost:3001
+info: Oct-14-2024 13:55:06: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 13:55:06: 	Super Admin seeded successfully.
+info: Oct-14-2024 13:55:06: 	db connected
+info: Oct-14-2024 13:55:23: 	server is running on http:/localhost:3001
+info: Oct-14-2024 13:55:23: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 13:55:23: 	Super Admin seeded successfully.
+info: Oct-14-2024 13:55:23: 	db connected
+info: Oct-14-2024 13:55:50: 	server is running on http:/localhost:3001
+info: Oct-14-2024 13:55:50: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 13:55:50: 	Super Admin seeded successfully.
+info: Oct-14-2024 13:55:50: 	db connected
+info: Oct-14-2024 13:57:41: 	server is running on http:/localhost:3001
+info: Oct-14-2024 13:57:41: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 13:57:41: 	Super Admin seeded successfully.
+info: Oct-14-2024 13:57:41: 	db connected
+error: Oct-14-2024 13:58:36: 	Staff member with ID 2007 not found
+error: Oct-14-2024 13:58:51: 	Staff member not found
+error: Oct-14-2024 13:58:57: 	Staff member not found
+info: Oct-14-2024 14:04:10: 	server is running on http:/localhost:3001
+info: Oct-14-2024 14:04:10: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 14:04:10: 	Super Admin seeded successfully.
+info: Oct-14-2024 14:04:10: 	db connected
+info: Oct-14-2024 14:04:16: 	server is running on http:/localhost:3001
+info: Oct-14-2024 14:04:16: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 14:04:16: 	Super Admin seeded successfully.
+info: Oct-14-2024 14:04:16: 	db connected
+info: Oct-14-2024 14:04:21: 	server is running on http:/localhost:3001
+info: Oct-14-2024 14:04:21: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 14:04:21: 	Super Admin seeded successfully.
+info: Oct-14-2024 14:04:21: 	db connected
+info: Oct-14-2024 14:04:23: 	server is running on http:/localhost:3001
+info: Oct-14-2024 14:04:24: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 14:04:24: 	Super Admin seeded successfully.
+info: Oct-14-2024 14:04:24: 	db connected
+error: Oct-14-2024 14:04:27: 	Staff member not found
+error: Oct-14-2024 14:04:46: 	Staff member not found
+info: Oct-14-2024 14:08:45: 	server is running on http:/localhost:3001
+info: Oct-14-2024 14:08:45: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 14:08:45: 	Super Admin seeded successfully.
+info: Oct-14-2024 14:08:45: 	db connected
+error: Oct-14-2024 14:08:51: 	WHERE parameter "staff_id" has invalid "undefined" value
+error: Oct-14-2024 14:09:00: 	WHERE parameter "staff_id" has invalid "undefined" value
+error: Oct-14-2024 14:09:15: 	WHERE parameter "staff_id" has invalid "undefined" value
+info: Oct-14-2024 14:10:11: 	server is running on http:/localhost:3001
+info: Oct-14-2024 14:10:11: 	Super Admin seeded successfully.
+info: Oct-14-2024 14:10:11: 	db connected
+error: Oct-14-2024 14:10:46: 	Validation error
+error: Oct-14-2024 14:10:58: 	WHERE parameter "staff_id" has invalid "undefined" value
+info: Oct-14-2024 14:13:24: 	server is running on http:/localhost:3001
+info: Oct-14-2024 14:13:24: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 14:13:24: 	Super Admin seeded successfully.
+info: Oct-14-2024 14:13:24: 	db connected
+info: Oct-14-2024 14:13:50: 	server is running on http:/localhost:3001
+info: Oct-14-2024 14:13:50: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 14:13:50: 	Super Admin seeded successfully.
+info: Oct-14-2024 14:13:50: 	db connected
+error: Oct-14-2024 14:14:02: 	Validation error
+error: Oct-14-2024 14:15:03: 	Error in login service: Error: Invalid credentials
+error: Oct-14-2024 14:15:03: 	Invalid credentials
+error: Oct-14-2024 14:17:22: 	Staff member not found
+info: Oct-14-2024 14:18:36: 	server is running on http:/localhost:3001
+info: Oct-14-2024 14:18:36: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 14:18:36: 	Super Admin seeded successfully.
+info: Oct-14-2024 14:18:36: 	db connected
+info: Oct-14-2024 14:18:48: 	server is running on http:/localhost:3001
+info: Oct-14-2024 14:18:48: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 14:18:48: 	Super Admin seeded successfully.
+info: Oct-14-2024 14:18:48: 	db connected
+info: Oct-14-2024 14:24:48: 	server is running on http:/localhost:3001
+info: Oct-14-2024 14:24:48: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 14:24:48: 	Super Admin seeded successfully.
+info: Oct-14-2024 14:24:48: 	db connected
+info: Oct-14-2024 14:24:59: 	server is running on http:/localhost:3001
+info: Oct-14-2024 14:24:59: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 14:24:59: 	Super Admin seeded successfully.
+info: Oct-14-2024 14:24:59: 	db connected
+info: Oct-14-2024 14:31:01: 	server is running on http:/localhost:3001
+info: Oct-14-2024 14:31:01: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 14:31:01: 	Super Admin seeded successfully.
+info: Oct-14-2024 14:31:01: 	db connected
+info: Oct-14-2024 14:31:08: 	server is running on http:/localhost:3001
+info: Oct-14-2024 14:31:08: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 14:31:08: 	Super Admin seeded successfully.
+info: Oct-14-2024 14:31:08: 	db connected
+info: Oct-14-2024 14:31:21: 	server is running on http:/localhost:3001
+info: Oct-14-2024 14:31:21: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 14:31:21: 	Super Admin seeded successfully.
+info: Oct-14-2024 14:31:21: 	db connected

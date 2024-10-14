@@ -1,23 +1,38 @@
 [
     {
-        "name": "Anil Shebin S J",
+        "first_name": "Anil",
+        "last_name": "Shebin S J",
+        "email": "anil.sj@example.com", 
         "staff_id": "1001",
-        "password": "Admin@123",
         "phone": "94878274659",
-        "isVerified": true
+        "password": "Admin@123",
+        "isVerified": true,
+        "gender": "Male",  
+        "designation": "Super Admin",  
+        "documents_collected": true  
     },
     {
-        "name": "Sowmiya",
+        "first_name": "Sowmiya",
+        "last_name": "Sowmiya",
+        "email": "sowmiya@example.com", 
         "staff_id": "1002",
-        "password": "Admin@123",
         "phone": "94878274659",
-        "isVerified": false
+        "password": "Admin@123",
+        "isVerified": false,
+        "gender": "Female",  
+        "designation": "Admin",  
+        "documents_collected": false  
     },
     {
-        "name": "Keerthi Vasan",
+        "first_name": "Keerthi",
+        "last_name": "Vasan",
+        "email": "keerthi@example.com", 
         "staff_id": "1003",
-        "password": "Admin@123",
         "phone": "94878274659",
-        "isVerified": false
+        "password": "Admin@123",
+        "isVerified": false,
+        "gender": "Female",  
+        "designation": "Employee",  
+        "documents_collected": false  
     }
 ]

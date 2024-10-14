@@ -38,4 +38,12 @@ export const staffSchema = Joi.object({
     'boolean.base': 'Documents collected must be a boolean value',
     'any.required': 'Documents collected is required',
   }),
+  staff_id: Joi.string().required().messages({
+    'string.empty': 'Staff ID is required',
+    'any.required': 'Staff ID is required',
+  }),
+  isVerified: Joi.boolean().required().messages({
+    'boolean.base': 'Is Verified must be a boolean value',
+    'any.required': 'Is Verified is required',
+  }),
 });

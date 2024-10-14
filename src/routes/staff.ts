@@ -6,10 +6,11 @@ import { protect, authorize } from '../middlewares/auth-middleware';
 
 const router = Router();
 
+// Use a more descriptive parameter name for clarity
 router.post('/', protect, authorize('ADMIN', 'SUPER_ADMIN'), validate(staffSchema), addStaff);
-router.get('/:id', protect, authorize('ADMIN', 'SUPER_ADMIN'), getStaff);
-router.put('/:id', protect, authorize('ADMIN', 'SUPER_ADMIN'), validate(staffSchema), updateStaff);
-router.delete('/:id', protect, authorize('SUPER_ADMIN'), deleteStaff);
+router.get('/:staffId', protect, authorize('ADMIN', 'SUPER_ADMIN'), getStaff); // Updated parameter name
+router.put('/:staffId', protect, authorize('ADMIN', 'SUPER_ADMIN'), validate(staffSchema), updateStaff); // Updated parameter name
+router.delete('/:staffId', protect, authorize('SUPER_ADMIN'), deleteStaff); // Updated parameter name
 router.get('/', protect, authorize('ADMIN', 'SUPER_ADMIN'), listAllStaff);
 
 export default router;

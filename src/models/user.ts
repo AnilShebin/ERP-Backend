@@ -1,69 +1,43 @@
-import { DataTypes, Model, Optional } from 'sequelize';
+// src/models/user.ts
+import { DataTypes, Model } from 'sequelize'; // or mongoose
 import sequelize from '../config/database';
-import Role from './role';
-import { UserAttributes, UserCreationAttributes } from '../types/user';
 
-class User extends Model<UserAttributes, UserCreationAttributes> implements UserAttributes {
+export class User extends Model {
   public id!: number;
-  public name!: string;
-  public staff_id!: number;
+  public company_name!: string;
+  public company_email!: string;
+  public phone!: string;
   public password!: string;
-  public phone!: string | null;
-  public isVerified!: boolean;
-  public roleId!: number;
-
+  
+  // timestamps
   public readonly createdAt!: Date;
   public readonly updatedAt!: Date;
-
-  public role?: Role;
 }
 
-User.init(
-  {
-    id: {
-      type: DataTypes.INTEGER.UNSIGNED,
-      autoIncrement: true,
-      primaryKey: true,
-    },
-    name: {
-      type: DataTypes.STRING(100),
-      allowNull: false,
-    },
-    staff_id: {
-      type: DataTypes.STRING(100),
-      allowNull: false,
-      unique: true,
-    },
-    password: {
-      type: DataTypes.STRING(100),
-      allowNull: false,
-    },
-    phone: {
-      type: DataTypes.STRING(15),
-      allowNull: true,
-    },
-    isVerified: {
-      type: DataTypes.BOOLEAN,
-      defaultValue: false,
-      allowNull: false,
-    },
-    roleId: {
-      type: DataTypes.INTEGER.UNSIGNED,
-      allowNull: false,
-      references: {
-        model: Role,
-        key: 'id',
-      },
-    },
+User.init({
+  id: {
+    type: DataTypes.INTEGER,
+    autoIncrement: true,
+    primaryKey: true,
   },
-  {
-    sequelize,
-    modelName: 'User',
-    tableName: 'user',
-    timestamps: true,
-  }
-);
-
-User.belongsTo(Role, { foreignKey: 'roleId', as: 'role' });
-
-export default User;
+  company_name: {
+    type: DataTypes.STRING,
+    allowNull: false,
+  },
+  company_email: {
+    type: DataTypes.STRING,
+    allowNull: false,
+    unique: true,
+  },
+  phone: {
+    type: DataTypes.STRING,
+    allowNull: false,
+  },
+  password: {
+    type: DataTypes.STRING,
+    allowNull: false,
+  },
+}, {
+  sequelize, // passing the `sequelize` instance is required
+  modelName: 'User',
+});
