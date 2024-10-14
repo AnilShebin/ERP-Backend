@@ -4,7 +4,7 @@ import httpStatus from 'http-status';
 import Staff from '../models/staff'; // Adjust the model import
 import Role from '../models/role'; // Assuming Role model is still needed
 import ErrorHandler from '../utils/errorHandler';
-import { StaffAttributes } from '../models/staff'; // Change import to the Staff attributes
+import { StaffAttributes } from '../types/staff'; // Change import to the Staff attributes
 
 interface DecodedToken {
   id: number;

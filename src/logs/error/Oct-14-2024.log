@@ -80,3 +80,9 @@ error: Oct-14-2024 14:14:02: 	Validation error
 error: Oct-14-2024 14:15:03: 	Error in login service: Error: Invalid credentials
 error: Oct-14-2024 14:15:03: 	Invalid credentials
 error: Oct-14-2024 14:17:22: 	Staff member not found
+error: Oct-14-2024 15:20:02: 	Route Not Found
+error: Oct-14-2024 15:27:01: 	Route Not Found
+error: Oct-14-2024 15:29:24: 	Route Not Found
+error: Oct-14-2024 15:37:41: 	Route Not Found
+error: Oct-14-2024 15:38:49: 	Not authorized to access this route
+error: Oct-14-2024 15:38:53: 	Route Not Found

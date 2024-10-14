@@ -2,7 +2,7 @@
 import { DataTypes, Model } from 'sequelize'; // or mongoose
 import sequelize from '../config/database';
 
-export class User extends Model {
+export default class User extends Model {
   public id!: number;
   public company_name!: string;
   public company_email!: string;
