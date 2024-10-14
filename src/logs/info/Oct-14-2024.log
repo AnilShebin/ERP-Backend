@@ -1,0 +1,202 @@
+info: Oct-14-2024 10:05:24: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:05:24: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:05:24: 	db connected
+error: Oct-14-2024 10:05:31: 	Not authorized to access this route
+info: Oct-14-2024 10:05:56: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:05:56: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:05:56: 	db connected
+info: Oct-14-2024 10:06:12: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:06:12: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:06:12: 	db connected
+error: Oct-14-2024 10:06:20: 	Unknown column 'staff_id' in 'field list'
+error: Oct-14-2024 10:06:22: 	Unknown column 'staff_id' in 'field list'
+error: Oct-14-2024 10:06:51: 	Unknown column 'staff_id' in 'field list'
+info: Oct-14-2024 10:10:22: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:10:22: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:10:22: 	db connected
+info: Oct-14-2024 10:11:05: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:11:05: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:11:05: 	db connected
+error: Oct-14-2024 10:14:55: 	Unknown column 'staff_id' in 'field list'
+info: Oct-14-2024 10:17:16: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:17:16: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:17:16: 	db connected
+error: Oct-14-2024 10:22:28: 	Not authorized to access this route
+info: Oct-14-2024 10:22:53: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:22:53: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:22:53: 	db connected
+info: Oct-14-2024 10:23:01: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:23:01: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:23:01: 	db connected
+info: Oct-14-2024 10:23:07: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:23:07: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:23:07: 	db connected
+info: Oct-14-2024 10:23:18: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:23:18: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:23:18: 	db connected
+info: Oct-14-2024 10:23:24: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:23:24: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:23:24: 	db connected
+error: Oct-14-2024 10:24:26: 	Staff member not found
+info: Oct-14-2024 10:27:25: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:27:25: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:27:25: 	db connected
+error: Oct-14-2024 10:27:34: 	WHERE parameter "staff_id" has invalid "undefined" value
+info: Oct-14-2024 10:28:53: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:28:53: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:28:53: 	db connected
+info: Oct-14-2024 10:29:00: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:29:00: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:29:00: 	db connected
+info: Oct-14-2024 10:30:03: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:30:03: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:30:03: 	db connected
+info: Oct-14-2024 10:30:37: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:30:37: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:30:37: 	db connected
+error: Oct-14-2024 10:32:54: 	Validation error
+info: Oct-14-2024 10:33:52: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:33:52: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:33:52: 	db connected
+error: Oct-14-2024 10:33:56: 	Validation error
+error: Oct-14-2024 10:34:45: 	Validation error
+error: Oct-14-2024 10:34:51: 	Validation error
+info: Oct-14-2024 10:35:14: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:35:14: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:35:14: 	db connected
+error: Oct-14-2024 10:35:17: 	Validation error
+error: Oct-14-2024 10:35:18: 	Validation error
+error: Oct-14-2024 10:35:25: 	Validation error
+info: Oct-14-2024 10:36:03: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:36:03: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:36:03: 	db connected
+info: Oct-14-2024 10:37:32: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:37:32: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:37:32: 	db connected
+info: Oct-14-2024 10:37:50: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:37:50: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:37:50: 	db connected
+info: Oct-14-2024 10:38:07: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:38:07: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:38:07: 	db connected
+info: Oct-14-2024 10:38:32: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:38:33: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:38:33: 	db connected
+info: Oct-14-2024 10:38:40: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:38:40: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:38:40: 	db connected
+info: Oct-14-2024 10:38:42: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:38:42: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:38:42: 	db connected
+info: Oct-14-2024 10:38:46: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:38:47: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:38:47: 	db connected
+error: Oct-14-2024 10:38:50: 	Validation error
+error: Oct-14-2024 10:39:41: 	Staff member not found
+error: Oct-14-2024 10:41:22: 	Validation error
+error: Oct-14-2024 10:41:33: 	Validation error
+error: Oct-14-2024 10:41:37: 	Validation error
+error: Oct-14-2024 10:41:42: 	Validation error
+info: Oct-14-2024 10:47:07: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:47:07: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:47:07: 	db connected
+info: Oct-14-2024 10:47:42: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:47:42: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:47:42: 	db connected
+error: Oct-14-2024 10:47:49: 	Validation error
+info: Oct-14-2024 10:48:38: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:48:38: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:48:38: 	db connected
+info: Oct-14-2024 10:48:50: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:48:50: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:48:50: 	db connected
+info: Oct-14-2024 10:48:53: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:48:53: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:48:53: 	db connected
+info: Oct-14-2024 10:48:57: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:48:57: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:48:57: 	db connected
+error: Oct-14-2024 10:49:02: 	Validation error
+error: Oct-14-2024 10:49:39: 	Validation error
+error: Oct-14-2024 10:49:50: 	Validation error
+error: Oct-14-2024 10:49:51: 	Validation error
+error: Oct-14-2024 10:49:58: 	Validation error
+error: Oct-14-2024 10:50:06: 	Validation error
+info: Oct-14-2024 10:50:32: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:50:32: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:50:32: 	db connected
+error: Oct-14-2024 10:50:34: 	Validation error
+error: Oct-14-2024 10:50:36: 	Validation error
+info: Oct-14-2024 10:50:44: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:50:44: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:50:44: 	db connected
+info: Oct-14-2024 10:52:40: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:52:40: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:52:40: 	db connected
+error: Oct-14-2024 10:52:51: 	Validation error
+error: Oct-14-2024 10:52:55: 	Validation error
+info: Oct-14-2024 10:53:37: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:53:37: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:53:37: 	db connected
+info: Oct-14-2024 10:54:42: 	server is running on http:/localhost:3001
+info: Oct-14-2024 10:54:42: 	Roles and Super Admin seeded.
+info: Oct-14-2024 10:54:42: 	db connected
+error: Oct-14-2024 10:54:48: 	Validation error
+error: Oct-14-2024 10:54:49: 	Validation error
+error: Oct-14-2024 10:54:50: 	Validation error
+info: Oct-14-2024 11:23:21: 	server is running on http:/localhost:3001
+info: Oct-14-2024 11:23:21: 	Roles and Super Admin seeded.
+info: Oct-14-2024 11:23:21: 	db connected
+info: Oct-14-2024 11:25:19: 	server is running on http:/localhost:3001
+info: Oct-14-2024 11:25:19: 	Roles and Super Admin seeded.
+info: Oct-14-2024 11:25:19: 	db connected
+error: Oct-14-2024 11:25:25: 	Validation error
+error: Oct-14-2024 11:25:35: 	Validation error
+info: Oct-14-2024 11:26:34: 	server is running on http:/localhost:3001
+info: Oct-14-2024 11:26:34: 	Roles and Super Admin seeded.
+info: Oct-14-2024 11:26:34: 	db connected
+info: Oct-14-2024 11:32:35: 	server is running on http:/localhost:3001
+info: Oct-14-2024 11:32:35: 	Roles and Super Admin seeded.
+info: Oct-14-2024 11:32:35: 	db connected
+error: Oct-14-2024 11:33:07: 	Validation error
+error: Oct-14-2024 11:33:08: 	Validation error
+error: Oct-14-2024 11:33:10: 	Validation error
+info: Oct-14-2024 11:34:27: 	server is running on http:/localhost:3001
+info: Oct-14-2024 11:34:27: 	Roles and Super Admin seeded.
+info: Oct-14-2024 11:34:27: 	db connected
+error: Oct-14-2024 11:34:28: 	Validation error
+error: Oct-14-2024 11:34:31: 	Validation error
+info: Oct-14-2024 11:35:33: 	server is running on http:/localhost:3001
+info: Oct-14-2024 11:35:33: 	Roles and Super Admin seeded.
+info: Oct-14-2024 11:35:33: 	db connected
+error: Oct-14-2024 11:35:39: 	Validation error
+error: Oct-14-2024 11:35:41: 	Validation error
+error: Oct-14-2024 11:35:41: 	Validation error
+info: Oct-14-2024 11:40:08: 	server is running on http:/localhost:3001
+info: Oct-14-2024 11:40:09: 	Roles and Super Admin seeded.
+info: Oct-14-2024 11:40:09: 	db connected
+info: Oct-14-2024 11:40:14: 	server is running on http:/localhost:3001
+info: Oct-14-2024 11:40:14: 	Roles and Super Admin seeded.
+info: Oct-14-2024 11:40:14: 	db connected
+info: Oct-14-2024 11:41:03: 	server is running on http:/localhost:3001
+info: Oct-14-2024 11:41:03: 	Roles and Super Admin seeded.
+info: Oct-14-2024 11:41:03: 	db connected
+info: Oct-14-2024 11:41:09: 	server is running on http:/localhost:3001
+info: Oct-14-2024 11:41:09: 	Roles and Super Admin seeded.
+info: Oct-14-2024 11:41:09: 	db connected
+info: Oct-14-2024 11:41:27: 	server is running on http:/localhost:3001
+info: Oct-14-2024 11:41:27: 	Roles and Super Admin seeded.
+info: Oct-14-2024 11:41:27: 	db connected
+error: Oct-14-2024 11:41:35: 	Not authorized to access this route
+error: Oct-14-2024 11:41:50: 	Unknown column 'role' in 'field list'
+info: Oct-14-2024 11:42:49: 	server is running on http:/localhost:3001
+info: Oct-14-2024 11:42:50: 	Roles and Super Admin seeded.
+info: Oct-14-2024 11:42:50: 	db connected
+info: Oct-14-2024 11:52:18: 	server is running on http:/localhost:3001
+info: Oct-14-2024 11:52:18: 	Roles and Super Admin seeded.
+info: Oct-14-2024 11:52:18: 	db connected
+error: Oct-14-2024 11:53:06: 	Unknown column 'roleId' in 'field list'
+info: Oct-14-2024 11:53:32: 	server is running on http:/localhost:3001
+info: Oct-14-2024 11:53:33: 	Roles and Super Admin seeded.
+info: Oct-14-2024 11:53:33: 	db connected
+error: Oct-14-2024 11:53:46: 	Role is required, "roleId" is not allowed

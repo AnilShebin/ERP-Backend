@@ -1,28 +1,19 @@
-// middlewares/validate.ts
-
 import { Request, Response, NextFunction } from 'express';
-import { Schema } from 'joi';
+import { ObjectSchema } from 'joi';
 import httpStatus from 'http-status';
 import ErrorHandler from '../utils/errorHandler';
-import logger from '../config/logger';
 
-const validate =
-    (schema: Schema) =>
-    (req: Request, res: Response, next: NextFunction): void => {
-        const { value, error } = schema.validate(req.body);
+const validate = (schema: ObjectSchema) => {
+  return (req: Request, res: Response, next: NextFunction) => {
+    const { error } = schema.validate(req.body, { abortEarly: false });
 
-        if (error) {
-            const errorMessage = error.details
-                .map((detail) => detail.message)
-                .join(', ');
+    if (error) {
+      const errorMessages = error.details.map((detail) => detail.message);
+      return next(new ErrorHandler(httpStatus.BAD_REQUEST, errorMessages.join(', ')));
+    }
 
-            logger.error(errorMessage);
-            return next(
-                new ErrorHandler(httpStatus.UNPROCESSABLE_ENTITY, errorMessage)
-            );
-        }
-
-        return next();
-    };
+    next();
+  };
+};
 
 export default validate;

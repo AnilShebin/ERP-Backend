@@ -16,7 +16,7 @@
         "code": "EMPLOYEE"
     },
     {
-        "name": "Customer",
-        "code": "CUSTOMER"
+        "name": "Guset",
+        "code": "GUEST"
     }
 ]

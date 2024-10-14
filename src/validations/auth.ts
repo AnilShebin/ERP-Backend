@@ -11,6 +11,6 @@ export const registerSchema = Joi.object({
     name: Joi.string().max(100).required(),
     staff_id: Joi.number().integer().required(),
     password: Joi.string().min(6).required(),
-    phone: Joi.string().optional(), // Add the phone field here
+    phone: Joi.string().optional(), 
     roleId: Joi.number().integer().required()
 });

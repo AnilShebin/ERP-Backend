@@ -49,12 +49,12 @@ export const protect = async (req: Request, res: Response, next: NextFunction) =
   }
 };
 
-export const authorize = (roles: string[]) => {
+export const authorize = (...roles: string[]) => {
   return (req: Request, res: Response, next: NextFunction) => {
-    // Check if the user exists and has a valid role
     if (!req.user || !req.user.role || !roles.includes(req.user.role.code)) {
       return next(new ErrorHandler(httpStatus.FORBIDDEN, 'Not authorized to access this route'));
     }
     next();
   };
 };
+

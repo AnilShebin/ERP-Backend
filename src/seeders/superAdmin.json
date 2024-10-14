@@ -5,5 +5,19 @@
         "password": "Admin@123",
         "phone": "94878274659",
         "isVerified": true
+    },
+    {
+        "name": "Sowmiya",
+        "staff_id": "1002",
+        "password": "Admin@123",
+        "phone": "94878274659",
+        "isVerified": false
+    },
+    {
+        "name": "Keerthi Vasan",
+        "staff_id": "1003",
+        "password": "Admin@123",
+        "phone": "94878274659",
+        "isVerified": false
     }
 ]
