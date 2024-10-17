@@ -1,4 +1,3 @@
-// models/staff.ts
 import { DataTypes, Model } from 'sequelize';
 import sequelize from '../config/database';
 import Role from './role'; // Import the Role model
@@ -11,13 +10,19 @@ export class Staff extends Model<StaffAttributes> implements StaffAttributes {
   public email!: string;
   public phone!: string;
   public gender!: string;
-  public alternate_number?: string; // Optional field
+  public alternate_number?: string;
   public roleId!: number;
   public designation!: string;
   public password!: string;
-  public documents_collected!: boolean;
+  public documents_collected!: { documentName: string; isOriginal: boolean }[]; // Array of documents
   public staff_id!: string; // Correctly defined as string
   public isVerified!: boolean;
+  public address!: string;
+  public city!: string;
+  public state!: string;
+  public country!: string;
+  public postal_code!: string;
+  public date_of_birth!: string;
   public readonly createdAt!: Date;
   public readonly updatedAt!: Date;
 }
@@ -66,8 +71,8 @@ Staff.init(
       allowNull: false,
     },
     documents_collected: {
-      type: DataTypes.BOOLEAN,
-      defaultValue: false,
+      type: DataTypes.JSON, // Store documents in JSON format
+      allowNull: false,
     },
     staff_id: {
       type: DataTypes.STRING(100),
@@ -77,6 +82,30 @@ Staff.init(
     isVerified: {
       type: DataTypes.BOOLEAN,
       defaultValue: false,
+    },
+    address: {
+      type: DataTypes.STRING,
+      allowNull: false,
+    },
+    city: {
+      type: DataTypes.STRING,
+      allowNull: false,
+    },
+    state: {
+      type: DataTypes.STRING,
+      allowNull: false,
+    },
+    country: {
+      type: DataTypes.STRING,
+      allowNull: false,
+    },
+    postal_code: {
+      type: DataTypes.STRING,
+      allowNull: false,
+    },
+    date_of_birth: {
+      type: DataTypes.STRING,
+      allowNull: false,
     },
   },
   {

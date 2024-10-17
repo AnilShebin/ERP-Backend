@@ -1,0 +1,19 @@
+info: Oct-17-2024 09:54:08: 	server is running on http:/localhost:3001
+info: Oct-17-2024 09:54:08: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 09:54:08: 	Super Admin seeded successfully.
+info: Oct-17-2024 09:54:08: 	db connected
+error: Oct-17-2024 12:45:48: 	notNull Violation: Staff.staff_id cannot be null
+error: Oct-17-2024 12:52:55: 	Cannot add or update a child row: a foreign key constraint fails (`login`.`staff`, CONSTRAINT `staff_ibfk_1` FOREIGN KEY (`roleId`) REFERENCES `roles` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE)
+info: Oct-17-2024 13:18:43: 	server is running on http:/localhost:3001
+info: Oct-17-2024 13:18:43: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 13:18:43: 	Super Admin seeded successfully.
+info: Oct-17-2024 13:18:43: 	db connected
+error: Oct-17-2024 14:04:34: 	Route Not Found
+info: Oct-17-2024 14:17:23: 	server is running on http:/localhost:3001
+info: Oct-17-2024 14:17:23: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 14:17:23: 	Super Admin seeded successfully.
+info: Oct-17-2024 14:17:23: 	db connected
+error: Oct-17-2024 14:55:22: 	Validation error
+error: Oct-17-2024 14:55:46: 	Validation error
+error: Oct-17-2024 14:55:50: 	Validation error
+error: Oct-17-2024 14:56:06: 	Validation error

@@ -1,0 +1,56 @@
+error: Oct-16-2024 11:08:06: 	Error seeding super admin: Unknown column 'address' in 'field list'
+error: Oct-16-2024 11:08:28: 	Error seeding super admin: Unknown column 'address' in 'field list'
+error: Oct-16-2024 11:08:47: 	Error seeding super admin: Unknown column 'address' in 'field list'
+error: Oct-16-2024 11:09:24: 	Error seeding super admin: Unknown column 'address' in 'field list'
+error: Oct-16-2024 11:10:32: 	Unknown column 'address' in 'field list'
+error: Oct-16-2024 11:11:50: 	Error seeding super admin: notNull Violation: Staff.address cannot be null,
+notNull Violation: Staff.city cannot be null,
+notNull Violation: Staff.state cannot be null,
+notNull Violation: Staff.country cannot be null,
+notNull Violation: Staff.postal_code cannot be null,
+notNull Violation: Staff.date_of_birth cannot be null
+error: Oct-16-2024 11:12:48: 	Error seeding super admin: notNull Violation: Staff.address cannot be null,
+notNull Violation: Staff.city cannot be null,
+notNull Violation: Staff.state cannot be null,
+notNull Violation: Staff.country cannot be null,
+notNull Violation: Staff.postal_code cannot be null,
+notNull Violation: Staff.date_of_birth cannot be null
+error: Oct-16-2024 11:13:42: 	Error seeding super admin: notNull Violation: Staff.address cannot be null,
+notNull Violation: Staff.city cannot be null,
+notNull Violation: Staff.state cannot be null,
+notNull Violation: Staff.country cannot be null,
+notNull Violation: Staff.postal_code cannot be null,
+notNull Violation: Staff.date_of_birth cannot be null
+error: Oct-16-2024 11:54:48: 	notNull Violation: Staff.first_name cannot be null,
+notNull Violation: Staff.last_name cannot be null,
+notNull Violation: Staff.phone cannot be null,
+notNull Violation: Staff.roleId cannot be null,
+notNull Violation: Staff.designation cannot be null,
+notNull Violation: Staff.staff_id cannot be null,
+notNull Violation: Staff.postal_code cannot be null,
+notNull Violation: Staff.date_of_birth cannot be null
+error: Oct-16-2024 11:58:31: 	notNull Violation: Staff.roleId cannot be null,
+notNull Violation: Staff.designation cannot be null,
+notNull Violation: Staff.staff_id cannot be null
+error: Oct-16-2024 11:58:34: 	notNull Violation: Staff.roleId cannot be null,
+notNull Violation: Staff.designation cannot be null,
+notNull Violation: Staff.staff_id cannot be null
+error: Oct-16-2024 12:24:23: 	notNull Violation: Staff.documents_collected cannot be null
+error: Oct-16-2024 12:30:38: 	notNull Violation: Staff.documents_collected cannot be null
+error: Oct-16-2024 12:50:34: 	notNull Violation: Staff.documents_collected cannot be null
+error: Oct-16-2024 13:55:59: 	Cannot add or update a child row: a foreign key constraint fails (`login`.`staff`, CONSTRAINT `staff_ibfk_1` FOREIGN KEY (`roleId`) REFERENCES `roles` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE)
+error: Oct-16-2024 18:12:48: 	notNull Violation: Staff.documents_collected cannot be null
+error: Oct-16-2024 18:17:58: 	Validation error
+error: Oct-16-2024 18:19:04: 	Validation error
+error: Oct-16-2024 19:14:49: 	Validation error
+error: Oct-16-2024 19:18:47: 	Validation error
+error: Oct-16-2024 19:19:58: 	notNull Violation: Staff.documents_collected cannot be null
+error: Oct-16-2024 19:21:32: 	Validation error
+error: Oct-16-2024 19:22:28: 	notNull Violation: Staff.roleId cannot be null,
+notNull Violation: Staff.designation cannot be null,
+notNull Violation: Staff.staff_id cannot be null
+error: Oct-16-2024 19:25:02: 	Validation error
+error: Oct-16-2024 19:25:36: 	Cannot add or update a child row: a foreign key constraint fails (`login`.`staff`, CONSTRAINT `staff_ibfk_1` FOREIGN KEY (`roleId`) REFERENCES `roles` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE)
+error: Oct-16-2024 21:22:36: 	notNull Violation: Staff.documents_collected cannot be null
+error: Oct-16-2024 21:23:03: 	Staff member not found
+error: Oct-16-2024 21:23:03: 	Staff member not found

@@ -5,6 +5,7 @@ import { StaffAttributes } from '../types/staff';
 export const createStaff = async (staffData: StaffAttributes): Promise<Staff> => {
   const hashedPassword = await bcrypt.hash(staffData.password, 10);
   staffData.password = hashedPassword;
+
   const staff = await Staff.create(staffData);
   return staff;
 };

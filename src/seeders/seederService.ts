@@ -67,7 +67,9 @@ const seedSuperAdmins = async () => {
 
             if (!superAdminExists) {
                 const hashedPassword = await bcrypt.hash(superAdminData.password, 10); // Hash password
-                await Staff.create({ // Create a new staff member
+                
+                // Create a new staff member with required fields
+                await Staff.create({
                     first_name: superAdminData.first_name,
                     last_name: superAdminData.last_name,
                     email: superAdminData.email,
@@ -79,6 +81,13 @@ const seedSuperAdmins = async () => {
                     gender: superAdminData.gender || 'Not specified', // Provide default values as needed
                     designation: superAdminData.designation || 'Not specified',
                     documents_collected: superAdminData.documents_collected || false,
+                    // Required fields - use provided data or fallback values
+                    address: superAdminData.address || 'Unknown Address',
+                    city: superAdminData.city || 'Unknown City',
+                    state: superAdminData.state || 'Unknown State',
+                    country: superAdminData.country || 'Unknown Country',
+                    postal_code: superAdminData.postal_code || '000000',
+                    date_of_birth: superAdminData.date_of_birth || '2000-01-01', // Set default DOB if not provided
                 });
             } else {
                 superAdminExistsCount++;

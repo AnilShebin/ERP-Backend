@@ -10,29 +10,5 @@
         "gender": "Male",  
         "designation": "Super Admin",  
         "documents_collected": true  
-    },
-    {
-        "first_name": "Sowmiya",
-        "last_name": "Sowmiya",
-        "email": "sowmiya@example.com", 
-        "staff_id": "1002",
-        "phone": "94878274659",
-        "password": "Admin@123",
-        "isVerified": false,
-        "gender": "Female",  
-        "designation": "Admin",  
-        "documents_collected": false  
-    },
-    {
-        "first_name": "Keerthi",
-        "last_name": "Vasan",
-        "email": "keerthi@example.com", 
-        "staff_id": "1003",
-        "phone": "94878274659",
-        "password": "Admin@123",
-        "isVerified": false,
-        "gender": "Female",  
-        "designation": "Employee",  
-        "documents_collected": false  
     }
 ]

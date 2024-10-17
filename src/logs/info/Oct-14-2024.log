@@ -580,3 +580,40 @@ info: Oct-14-2024 16:11:08: 	server is running on http:/localhost:3001
 info: Oct-14-2024 16:11:08: 	3 Super Admin(s) already exist.
 info: Oct-14-2024 16:11:08: 	Super Admin seeded successfully.
 info: Oct-14-2024 16:11:08: 	db connected
+info: Oct-14-2024 16:14:41: 	server is running on http:/localhost:3001
+info: Oct-14-2024 16:14:41: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 16:14:41: 	Super Admin seeded successfully.
+info: Oct-14-2024 16:14:41: 	db connected
+info: Oct-14-2024 16:14:47: 	server is running on http:/localhost:3001
+info: Oct-14-2024 16:14:47: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 16:14:47: 	Super Admin seeded successfully.
+info: Oct-14-2024 16:14:47: 	db connected
+info: Oct-14-2024 20:54:21: 	server is running on http:/localhost:3001
+info: Oct-14-2024 20:54:21: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 20:54:21: 	Super Admin seeded successfully.
+info: Oct-14-2024 20:54:21: 	db connected
+info: Oct-14-2024 21:02:52: 	server is running on http:/localhost:3001
+info: Oct-14-2024 21:02:52: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 21:02:52: 	Super Admin seeded successfully.
+info: Oct-14-2024 21:02:52: 	db connected
+info: Oct-14-2024 21:03:14: 	server is running on http:/localhost:3001
+info: Oct-14-2024 21:03:14: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 21:03:14: 	Super Admin seeded successfully.
+info: Oct-14-2024 21:03:14: 	db connected
+info: Oct-14-2024 21:03:20: 	server is running on http:/localhost:3001
+info: Oct-14-2024 21:03:20: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 21:03:20: 	Super Admin seeded successfully.
+info: Oct-14-2024 21:03:20: 	db connected
+info: Oct-14-2024 21:03:27: 	server is running on http:/localhost:3001
+info: Oct-14-2024 21:03:28: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 21:03:28: 	Super Admin seeded successfully.
+info: Oct-14-2024 21:03:28: 	db connected
+info: Oct-14-2024 21:03:32: 	server is running on http:/localhost:3001
+info: Oct-14-2024 21:03:32: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 21:03:32: 	Super Admin seeded successfully.
+info: Oct-14-2024 21:03:32: 	db connected
+info: Oct-14-2024 21:03:40: 	server is running on http:/localhost:3001
+info: Oct-14-2024 21:03:40: 	3 Super Admin(s) already exist.
+info: Oct-14-2024 21:03:40: 	Super Admin seeded successfully.
+info: Oct-14-2024 21:03:40: 	db connected
+error: Oct-15-2024 18:00:28: 	Not authorized to access this route

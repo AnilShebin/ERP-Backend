@@ -1,0 +1,7 @@
+error: Oct-17-2024 12:45:48: 	notNull Violation: Staff.staff_id cannot be null
+error: Oct-17-2024 12:52:55: 	Cannot add or update a child row: a foreign key constraint fails (`login`.`staff`, CONSTRAINT `staff_ibfk_1` FOREIGN KEY (`roleId`) REFERENCES `roles` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE)
+error: Oct-17-2024 14:04:34: 	Route Not Found
+error: Oct-17-2024 14:55:22: 	Validation error
+error: Oct-17-2024 14:55:46: 	Validation error
+error: Oct-17-2024 14:55:50: 	Validation error
+error: Oct-17-2024 14:56:06: 	Validation error
