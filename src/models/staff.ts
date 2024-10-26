@@ -31,24 +31,24 @@ Staff.init(
   {
     first_name: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: true,
     },
     last_name: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: true,
     },
     email: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: true,
       unique: true, // Added uniqueness to email
     },
     phone: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: true,
     },
     gender: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: true,
     },
     alternate_number: {
       type: DataTypes.STRING,
@@ -56,7 +56,7 @@ Staff.init(
     },
     roleId: {
       type: DataTypes.INTEGER.UNSIGNED,
-      allowNull: false,
+      allowNull: true,
       references: {
         model: Role,
         key: 'id',
@@ -64,48 +64,48 @@ Staff.init(
     },
     designation: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: true,
     },
     password: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: true,
     },
     documents_collected: {
-      type: DataTypes.JSON, // Store documents in JSON format
-      allowNull: false,
+      type: DataTypes.JSON,
+      allowNull: true,
     },
     staff_id: {
-      type: DataTypes.STRING(100),
-      allowNull: false,
+      type: DataTypes.STRING,
+      allowNull: true,
       unique: true,
     },
     isVerified: {
       type: DataTypes.BOOLEAN,
-      defaultValue: false,
+      defaultValue: true,
     },
     address: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: true,
     },
     city: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: true,
     },
     state: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: true,
     },
     country: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: true,
     },
     postal_code: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: true,
     },
     date_of_birth: {
       type: DataTypes.STRING,
-      allowNull: false,
+      allowNull: true,
     },
   },
   {

@@ -1,0 +1,13 @@
+error: Oct-18-2024 09:04:22: 	Validation error
+error: Oct-18-2024 09:15:05: 	Validation error
+error: Oct-18-2024 09:17:24: 	Validation error
+error: Oct-18-2024 09:59:38: 	Validation error
+error: Oct-18-2024 12:20:42: 	Error creating company: Validation error: Validation isNumeric on mobile_no failed,
+Validation error: Validation len on mobile_no failed
+error: Oct-18-2024 12:21:18: 	Error creating company: Validation error: Validation len on mobile_no failed
+error: Oct-18-2024 12:25:51: 	Error creating company: Validation error: Validation isNumeric on mobile_no failed,
+Validation error: Validation len on mobile_no failed,
+Validation error: Validation isEmail on email_id failed,
+Validation error: Validation isEmail on manager_email_id failed
+error: Oct-18-2024 15:59:20: 	data and salt arguments required
+error: Oct-19-2024 16:54:41: 	Error creating company: Validation error

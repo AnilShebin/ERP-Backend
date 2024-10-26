@@ -1,0 +1,57 @@
+info: Oct-26-2024 10:06:10: 	server is running on http:/localhost:3001
+info: Oct-26-2024 10:06:10: 	1 Super Admin(s) already exist.
+info: Oct-26-2024 10:06:10: 	Super Admin seeded successfully.
+info: Oct-26-2024 10:06:10: 	db connected
+info: Oct-26-2024 12:04:56: 	server is running on http:/localhost:3001
+info: Oct-26-2024 12:04:56: 	1 Super Admin(s) already exist.
+info: Oct-26-2024 12:04:56: 	Super Admin seeded successfully.
+info: Oct-26-2024 12:04:56: 	db connected
+info: Oct-26-2024 12:05:35: 	server is running on http:/localhost:3001
+info: Oct-26-2024 12:05:35: 	Super Admin seeded successfully.
+info: Oct-26-2024 12:05:35: 	db connected
+info: Oct-26-2024 12:08:09: 	server is running on http://localhost:3001
+info: Oct-26-2024 12:08:09: 	Database authenticated successfully.
+error: Oct-26-2024 12:08:14: 	Error synchronizing client tables: Can't create table `login`.`client_relationships` (errno: 150 "Foreign key constraint is incorrectly formed")
+info: Oct-26-2024 12:08:14: 	1 Super Admin(s) already exist.
+info: Oct-26-2024 12:08:14: 	Super Admin seeded successfully.
+info: Oct-26-2024 12:08:14: 	Database seeded successfully.
+info: Oct-26-2024 12:08:14: 	Database connected and synchronized.
+info: Oct-26-2024 12:12:05: 	server is running on http://localhost:3001
+info: Oct-26-2024 12:12:05: 	Database authenticated successfully.
+info: Oct-26-2024 12:12:06: 	Client tables synchronized successfully.
+error: Oct-26-2024 12:12:06: 	Error seeding roles: Table 'login.roles' doesn't exist
+error: Oct-26-2024 12:12:06: 	Error seeding super admin: Table 'login.roles' doesn't exist
+info: Oct-26-2024 12:12:06: 	Super Admin seeded successfully.
+info: Oct-26-2024 12:12:06: 	Database seeded successfully.
+info: Oct-26-2024 12:12:06: 	Database connected and synchronized.
+info: Oct-26-2024 12:13:36: 	server is running on http://localhost:3001
+info: Oct-26-2024 12:13:36: 	Database authenticated successfully.
+info: Oct-26-2024 12:13:36: 	Client tables synchronized successfully.
+error: Oct-26-2024 12:13:36: 	Error seeding roles: Table 'login.roles' doesn't exist
+error: Oct-26-2024 12:13:36: 	Error seeding super admin: Table 'login.roles' doesn't exist
+info: Oct-26-2024 12:13:36: 	Super Admin seeded successfully.
+info: Oct-26-2024 12:13:36: 	Database seeded successfully.
+info: Oct-26-2024 12:13:36: 	Database connected and synchronized.
+info: Oct-26-2024 12:13:40: 	server is running on http:/localhost:3001
+info: Oct-26-2024 12:13:40: 	Super Admin seeded successfully.
+info: Oct-26-2024 12:13:40: 	db connected
+info: Oct-26-2024 12:15:06: 	server is running on http:/localhost:3001
+info: Oct-26-2024 12:15:06: 	1 Super Admin(s) already exist.
+info: Oct-26-2024 12:15:06: 	Super Admin seeded successfully.
+info: Oct-26-2024 12:15:06: 	db connected
+info: Oct-26-2024 12:15:13: 	server is running on http:/localhost:3001
+info: Oct-26-2024 12:15:13: 	1 Super Admin(s) already exist.
+info: Oct-26-2024 12:15:13: 	Super Admin seeded successfully.
+info: Oct-26-2024 12:15:13: 	db connected
+info: Oct-26-2024 12:24:00: 	server is running on http:/localhost:3001
+info: Oct-26-2024 12:24:00: 	1 Super Admin(s) already exist.
+info: Oct-26-2024 12:24:00: 	Super Admin seeded successfully.
+info: Oct-26-2024 12:24:00: 	db connected
+info: Oct-26-2024 12:24:21: 	server is running on http:/localhost:3001
+info: Oct-26-2024 12:24:21: 	1 Super Admin(s) already exist.
+info: Oct-26-2024 12:24:21: 	Super Admin seeded successfully.
+info: Oct-26-2024 12:24:21: 	db connected
+info: Oct-26-2024 12:25:46: 	server is running on http:/localhost:3001
+info: Oct-26-2024 12:25:46: 	1 Super Admin(s) already exist.
+info: Oct-26-2024 12:25:46: 	Super Admin seeded successfully.
+info: Oct-26-2024 12:25:46: 	db connected

@@ -1,0 +1,4 @@
+info: Oct-19-2024 16:56:37: 	server is running on http:/localhost:3001
+info: Oct-19-2024 16:56:37: 	Super Admin seeded successfully.
+info: Oct-19-2024 16:56:37: 	db connected
+error: Oct-19-2024 16:56:49: 	Error creating company: Validation error

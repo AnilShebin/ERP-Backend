@@ -14,6 +14,6 @@ router.post('/login', validate(loginSchema), login);
 router.post('/register', validate(registerSchema), register);
 
 // Get all registered users route
-router.get('/companies', protect, authorize('ADMIN', 'SUPER_ADMIN'), getAllRegisteredCompanies);
+router.get('/registered-companies', protect, authorize('ADMIN', 'SUPER_ADMIN'), getAllRegisteredCompanies);
 
 export default router;

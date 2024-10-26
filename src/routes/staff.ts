@@ -6,17 +6,10 @@ import { protect, authorize } from '../middlewares/auth-middleware';
 
 const router = Router();
 
-// Use a more descriptive parameter name for clarity
-// router.post('/', protect, authorize('ADMIN', 'SUPER_ADMIN'), validate(staffSchema), addStaff);
-// router.get('/:staffId', protect, authorize('ADMIN', 'SUPER_ADMIN'), getStaff); // Updated parameter name
-// router.put('/:staffId', protect, authorize('ADMIN', 'SUPER_ADMIN'), validate(staffSchema), updateStaff); // Updated parameter name
-// router.delete('/:staffId', protect, authorize('SUPER_ADMIN'), deleteStaff); // Updated parameter name
-// router.get('/', protect, authorize('ADMIN', 'SUPER_ADMIN'), listAllStaff);
-
 router.post('/',  addStaff);
-router.get('/:staffId', getStaff); // Updated parameter name
-router.put('/:staffId',  updateStaff); // Updated parameter name
-router.delete('/:staffId', deleteStaff); // Updated parameter name
+router.get('/:staffId', getStaff); 
+router.put('/:staffId',  updateStaff); 
+router.delete('/:staffId', deleteStaff); 
 router.get('/', listAllStaff);
 
 export default router;

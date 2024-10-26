@@ -5,3 +5,13 @@ error: Oct-17-2024 14:55:22: 	Validation error
 error: Oct-17-2024 14:55:46: 	Validation error
 error: Oct-17-2024 14:55:50: 	Validation error
 error: Oct-17-2024 14:56:06: 	Validation error
+error: Oct-17-2024 15:04:31: 	Validation error
+error: Oct-17-2024 15:04:37: 	Validation error
+error: Oct-17-2024 15:04:45: 	Validation error
+error: Oct-17-2024 15:04:50: 	Validation error
+error: Oct-17-2024 15:04:50: 	Validation error
+error: Oct-17-2024 15:04:52: 	Validation error
+error: Oct-17-2024 15:05:04: 	Validation error
+error: Oct-17-2024 16:29:33: 	string violation: documents_collected cannot be an array or an object
+error: Oct-17-2024 17:23:01: 	string violation: documents_collected cannot be an array or an object
+error: Oct-18-2024 09:03:56: 	Validation error

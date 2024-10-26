@@ -1,0 +1,5 @@
+error: Oct-26-2024 12:08:14: 	Error synchronizing client tables: Can't create table `login`.`client_relationships` (errno: 150 "Foreign key constraint is incorrectly formed")
+error: Oct-26-2024 12:12:06: 	Error seeding roles: Table 'login.roles' doesn't exist
+error: Oct-26-2024 12:12:06: 	Error seeding super admin: Table 'login.roles' doesn't exist
+error: Oct-26-2024 12:13:36: 	Error seeding roles: Table 'login.roles' doesn't exist
+error: Oct-26-2024 12:13:36: 	Error seeding super admin: Table 'login.roles' doesn't exist

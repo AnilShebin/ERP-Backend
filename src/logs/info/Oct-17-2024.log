@@ -17,3 +17,102 @@ error: Oct-17-2024 14:55:22: 	Validation error
 error: Oct-17-2024 14:55:46: 	Validation error
 error: Oct-17-2024 14:55:50: 	Validation error
 error: Oct-17-2024 14:56:06: 	Validation error
+info: Oct-17-2024 14:58:10: 	server is running on http:/localhost:3001
+info: Oct-17-2024 14:58:10: 	Super Admin seeded successfully.
+info: Oct-17-2024 14:58:10: 	db connected
+error: Oct-17-2024 15:04:31: 	Validation error
+error: Oct-17-2024 15:04:37: 	Validation error
+error: Oct-17-2024 15:04:45: 	Validation error
+error: Oct-17-2024 15:04:50: 	Validation error
+error: Oct-17-2024 15:04:50: 	Validation error
+error: Oct-17-2024 15:04:52: 	Validation error
+error: Oct-17-2024 15:05:04: 	Validation error
+info: Oct-17-2024 15:11:12: 	server is running on http:/localhost:3001
+info: Oct-17-2024 15:11:12: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 15:11:12: 	Super Admin seeded successfully.
+info: Oct-17-2024 15:11:12: 	db connected
+info: Oct-17-2024 15:11:22: 	server is running on http:/localhost:3001
+info: Oct-17-2024 15:11:22: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 15:11:22: 	Super Admin seeded successfully.
+info: Oct-17-2024 15:11:22: 	db connected
+info: Oct-17-2024 15:26:52: 	server is running on http:/localhost:3001
+info: Oct-17-2024 15:26:52: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 15:26:52: 	Super Admin seeded successfully.
+info: Oct-17-2024 15:26:52: 	db connected
+info: Oct-17-2024 15:26:57: 	server is running on http:/localhost:3001
+info: Oct-17-2024 15:26:57: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 15:26:57: 	Super Admin seeded successfully.
+info: Oct-17-2024 15:26:57: 	db connected
+info: Oct-17-2024 15:34:26: 	server is running on http:/localhost:3001
+info: Oct-17-2024 15:34:26: 	Super Admin seeded successfully.
+info: Oct-17-2024 15:34:26: 	db connected
+info: Oct-17-2024 15:44:17: 	server is running on http:/localhost:3001
+info: Oct-17-2024 15:44:17: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 15:44:17: 	Super Admin seeded successfully.
+info: Oct-17-2024 15:44:17: 	db connected
+info: Oct-17-2024 15:44:33: 	server is running on http:/localhost:3001
+info: Oct-17-2024 15:44:33: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 15:44:33: 	Super Admin seeded successfully.
+info: Oct-17-2024 15:44:33: 	db connected
+info: Oct-17-2024 15:44:38: 	server is running on http:/localhost:3001
+info: Oct-17-2024 15:44:38: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 15:44:38: 	Super Admin seeded successfully.
+info: Oct-17-2024 15:44:38: 	db connected
+info: Oct-17-2024 15:44:41: 	server is running on http:/localhost:3001
+info: Oct-17-2024 15:44:41: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 15:44:41: 	Super Admin seeded successfully.
+info: Oct-17-2024 15:44:41: 	db connected
+info: Oct-17-2024 15:45:07: 	server is running on http:/localhost:3001
+info: Oct-17-2024 15:45:07: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 15:45:07: 	Super Admin seeded successfully.
+info: Oct-17-2024 15:45:07: 	db connected
+info: Oct-17-2024 16:28:38: 	server is running on http:/localhost:3001
+info: Oct-17-2024 16:28:38: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 16:28:38: 	Super Admin seeded successfully.
+info: Oct-17-2024 16:28:38: 	db connected
+info: Oct-17-2024 16:29:18: 	server is running on http:/localhost:3001
+info: Oct-17-2024 16:29:18: 	Super Admin seeded successfully.
+info: Oct-17-2024 16:29:18: 	db connected
+error: Oct-17-2024 16:29:33: 	string violation: documents_collected cannot be an array or an object
+info: Oct-17-2024 16:31:29: 	server is running on http:/localhost:3001
+info: Oct-17-2024 16:31:29: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 16:31:29: 	Super Admin seeded successfully.
+info: Oct-17-2024 16:31:29: 	db connected
+info: Oct-17-2024 17:03:43: 	server is running on http:/localhost:3001
+info: Oct-17-2024 17:03:43: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 17:03:43: 	Super Admin seeded successfully.
+info: Oct-17-2024 17:03:43: 	db connected
+info: Oct-17-2024 17:05:20: 	server is running on http:/localhost:3001
+info: Oct-17-2024 17:05:20: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 17:05:20: 	Super Admin seeded successfully.
+info: Oct-17-2024 17:05:20: 	db connected
+info: Oct-17-2024 17:21:37: 	server is running on http:/localhost:3001
+info: Oct-17-2024 17:21:37: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 17:21:37: 	Super Admin seeded successfully.
+info: Oct-17-2024 17:21:37: 	db connected
+info: Oct-17-2024 17:22:44: 	server is running on http:/localhost:3001
+info: Oct-17-2024 17:22:44: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 17:22:44: 	Super Admin seeded successfully.
+info: Oct-17-2024 17:22:44: 	db connected
+error: Oct-17-2024 17:23:01: 	string violation: documents_collected cannot be an array or an object
+info: Oct-17-2024 19:53:35: 	server is running on http:/localhost:3001
+info: Oct-17-2024 19:53:35: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 19:53:35: 	Super Admin seeded successfully.
+info: Oct-17-2024 19:53:35: 	db connected
+info: Oct-17-2024 20:06:40: 	server is running on http:/localhost:3001
+info: Oct-17-2024 20:06:40: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 20:06:40: 	Super Admin seeded successfully.
+info: Oct-17-2024 20:06:40: 	db connected
+info: Oct-17-2024 20:30:19: 	server is running on http:/localhost:3001
+info: Oct-17-2024 20:30:19: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 20:30:19: 	Super Admin seeded successfully.
+info: Oct-17-2024 20:30:19: 	db connected
+info: Oct-17-2024 20:43:39: 	server is running on http:/localhost:3001
+info: Oct-17-2024 20:43:39: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 20:43:39: 	Super Admin seeded successfully.
+info: Oct-17-2024 20:43:39: 	db connected
+info: Oct-17-2024 20:43:43: 	server is running on http:/localhost:3001
+info: Oct-17-2024 20:43:43: 	1 Super Admin(s) already exist.
+info: Oct-17-2024 20:43:43: 	Super Admin seeded successfully.
+info: Oct-17-2024 20:43:43: 	db connected
+error: Oct-18-2024 09:03:56: 	Validation error

@@ -1,0 +1,10 @@
+info: Oct-22-2024 11:47:14: 	server is running on http:/localhost:3001
+error: Oct-22-2024 11:47:14: 	Error in connecting database: 
+info: Oct-22-2024 11:47:28: 	server is running on http:/localhost:3001
+error: Oct-22-2024 11:47:28: 	Error seeding super admin: Validation error
+info: Oct-22-2024 11:47:28: 	Super Admin seeded successfully.
+info: Oct-22-2024 11:47:28: 	db connected
+info: Oct-22-2024 19:52:19: 	server is running on http:/localhost:3001
+error: Oct-22-2024 19:52:20: 	Error seeding super admin: Validation error
+info: Oct-22-2024 19:52:20: 	Super Admin seeded successfully.
+info: Oct-22-2024 19:52:20: 	db connected
