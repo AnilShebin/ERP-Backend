@@ -1,0 +1,6 @@
+info: Oct-30-2024 19:04:03: 	server is running on http:/localhost:3001
+error: Oct-30-2024 19:04:03: 	Error in connecting database: 
+info: Oct-30-2024 19:05:01: 	server is running on http:/localhost:3001
+info: Oct-30-2024 19:05:01: 	1 Super Admin(s) already exist.
+info: Oct-30-2024 19:05:01: 	Super Admin seeded successfully.
+info: Oct-30-2024 19:05:01: 	db connected

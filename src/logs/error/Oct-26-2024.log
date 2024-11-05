@@ -3,3 +3,41 @@ error: Oct-26-2024 12:12:06: 	Error seeding roles: Table 'login.roles' doesn't e
 error: Oct-26-2024 12:12:06: 	Error seeding super admin: Table 'login.roles' doesn't exist
 error: Oct-26-2024 12:13:36: 	Error seeding roles: Table 'login.roles' doesn't exist
 error: Oct-26-2024 12:13:36: 	Error seeding super admin: Table 'login.roles' doesn't exist
+error: Oct-26-2024 12:37:13: 	Route Not Found
+error: Oct-26-2024 12:37:20: 	Route Not Found
+error: Oct-26-2024 12:38:10: 	Route Not Found
+error: Oct-26-2024 12:38:28: 	Not authorized to access this route
+error: Oct-26-2024 12:39:09: 	Not authorized to access this route
+error: Oct-26-2024 12:39:16: 	Error in login service: Error: Invalid credentials
+error: Oct-26-2024 12:39:16: 	Invalid credentials
+error: Oct-26-2024 13:58:42: 	notNull Violation: Client.clientType cannot be null,
+notNull Violation: Client.firstName cannot be null,
+notNull Violation: Client.lastName cannot be null,
+notNull Violation: Client.panNumber cannot be null,
+notNull Violation: Client.registeredOfficeAddress cannot be null,
+notNull Violation: Client.pincode cannot be null,
+notNull Violation: Client.mobileNo cannot be null,
+notNull Violation: Client.email cannot be null
+error: Oct-26-2024 14:00:10: 	notNull Violation: Client.clientType cannot be null,
+notNull Violation: Client.firstName cannot be null,
+notNull Violation: Client.lastName cannot be null,
+notNull Violation: Client.panNumber cannot be null,
+notNull Violation: Client.registeredOfficeAddress cannot be null,
+notNull Violation: Client.pincode cannot be null,
+notNull Violation: Client.mobileNo cannot be null,
+notNull Violation: Client.email cannot be null
+error: Oct-26-2024 23:52:24: 	string violation: bankDetails cannot be an array or an object
+error: Oct-26-2024 23:52:27: 	string violation: bankDetails cannot be an array or an object
+error: Oct-26-2024 23:52:51: 	string violation: bankDetails cannot be an array or an object
+error: Oct-27-2024 00:08:46: 	Validation error
+error: Oct-27-2024 00:08:47: 	Validation error
+error: Oct-27-2024 00:08:47: 	Validation error
+error: Oct-27-2024 00:08:47: 	Validation error
+error: Oct-27-2024 10:27:55: 	Validation error
+error: Oct-28-2024 09:40:25: 	Validation error
+error: Oct-28-2024 09:40:30: 	Validation error
+error: Oct-28-2024 09:40:31: 	Validation error
+error: Oct-28-2024 09:40:31: 	Validation error
+error: Oct-28-2024 09:40:31: 	Validation error
+error: Oct-28-2024 09:40:33: 	Validation error
+error: Oct-28-2024 09:41:11: 	Validation error

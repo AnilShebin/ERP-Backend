@@ -55,3 +55,91 @@ info: Oct-26-2024 12:25:46: 	server is running on http:/localhost:3001
 info: Oct-26-2024 12:25:46: 	1 Super Admin(s) already exist.
 info: Oct-26-2024 12:25:46: 	Super Admin seeded successfully.
 info: Oct-26-2024 12:25:46: 	db connected
+info: Oct-26-2024 12:33:13: 	server is running on http:/localhost:3001
+info: Oct-26-2024 12:33:14: 	Super Admin seeded successfully.
+info: Oct-26-2024 12:33:14: 	db connected
+info: Oct-26-2024 12:35:41: 	server is running on http:/localhost:3001
+info: Oct-26-2024 12:35:41: 	1 Super Admin(s) already exist.
+info: Oct-26-2024 12:35:41: 	Super Admin seeded successfully.
+info: Oct-26-2024 12:35:41: 	db connected
+info: Oct-26-2024 12:35:45: 	server is running on http:/localhost:3001
+info: Oct-26-2024 12:35:45: 	1 Super Admin(s) already exist.
+info: Oct-26-2024 12:35:45: 	Super Admin seeded successfully.
+info: Oct-26-2024 12:35:45: 	db connected
+info: Oct-26-2024 12:35:48: 	server is running on http:/localhost:3001
+info: Oct-26-2024 12:35:48: 	1 Super Admin(s) already exist.
+info: Oct-26-2024 12:35:48: 	Super Admin seeded successfully.
+info: Oct-26-2024 12:35:48: 	db connected
+info: Oct-26-2024 12:35:51: 	server is running on http:/localhost:3001
+info: Oct-26-2024 12:35:52: 	1 Super Admin(s) already exist.
+info: Oct-26-2024 12:35:52: 	Super Admin seeded successfully.
+info: Oct-26-2024 12:35:52: 	db connected
+info: Oct-26-2024 12:35:58: 	server is running on http:/localhost:3001
+info: Oct-26-2024 12:35:58: 	1 Super Admin(s) already exist.
+info: Oct-26-2024 12:35:58: 	Super Admin seeded successfully.
+info: Oct-26-2024 12:35:58: 	db connected
+info: Oct-26-2024 12:36:05: 	server is running on http:/localhost:3001
+info: Oct-26-2024 12:36:05: 	1 Super Admin(s) already exist.
+info: Oct-26-2024 12:36:05: 	Super Admin seeded successfully.
+info: Oct-26-2024 12:36:05: 	db connected
+info: Oct-26-2024 12:36:11: 	server is running on http:/localhost:3001
+info: Oct-26-2024 12:36:11: 	1 Super Admin(s) already exist.
+info: Oct-26-2024 12:36:11: 	Super Admin seeded successfully.
+info: Oct-26-2024 12:36:11: 	db connected
+error: Oct-26-2024 12:37:13: 	Route Not Found
+error: Oct-26-2024 12:37:20: 	Route Not Found
+error: Oct-26-2024 12:38:10: 	Route Not Found
+error: Oct-26-2024 12:38:29: 	Not authorized to access this route
+info: Oct-26-2024 12:39:08: 	server is running on http:/localhost:3001
+info: Oct-26-2024 12:39:08: 	1 Super Admin(s) already exist.
+info: Oct-26-2024 12:39:08: 	Super Admin seeded successfully.
+info: Oct-26-2024 12:39:08: 	db connected
+error: Oct-26-2024 12:39:09: 	Not authorized to access this route
+error: Oct-26-2024 12:39:16: 	Error in login service: Error: Invalid credentials
+error: Oct-26-2024 12:39:16: 	Invalid credentials
+error: Oct-26-2024 13:58:42: 	notNull Violation: Client.clientType cannot be null,
+notNull Violation: Client.firstName cannot be null,
+notNull Violation: Client.lastName cannot be null,
+notNull Violation: Client.panNumber cannot be null,
+notNull Violation: Client.registeredOfficeAddress cannot be null,
+notNull Violation: Client.pincode cannot be null,
+notNull Violation: Client.mobileNo cannot be null,
+notNull Violation: Client.email cannot be null
+error: Oct-26-2024 14:00:10: 	notNull Violation: Client.clientType cannot be null,
+notNull Violation: Client.firstName cannot be null,
+notNull Violation: Client.lastName cannot be null,
+notNull Violation: Client.panNumber cannot be null,
+notNull Violation: Client.registeredOfficeAddress cannot be null,
+notNull Violation: Client.pincode cannot be null,
+notNull Violation: Client.mobileNo cannot be null,
+notNull Violation: Client.email cannot be null
+info: Oct-26-2024 15:10:48: 	server is running on http:/localhost:3001
+info: Oct-26-2024 15:10:48: 	1 Super Admin(s) already exist.
+info: Oct-26-2024 15:10:48: 	Super Admin seeded successfully.
+info: Oct-26-2024 15:10:48: 	db connected
+info: Oct-26-2024 15:13:21: 	server is running on http:/localhost:3001
+info: Oct-26-2024 15:13:21: 	1 Super Admin(s) already exist.
+info: Oct-26-2024 15:13:21: 	Super Admin seeded successfully.
+info: Oct-26-2024 15:13:21: 	db connected
+info: Oct-26-2024 15:33:41: 	server is running on http:/localhost:3001
+info: Oct-26-2024 15:33:41: 	1 Super Admin(s) already exist.
+info: Oct-26-2024 15:33:41: 	Super Admin seeded successfully.
+info: Oct-26-2024 15:33:41: 	db connected
+info: Oct-26-2024 15:34:33: 	server is running on http:/localhost:3001
+info: Oct-26-2024 15:34:34: 	Super Admin seeded successfully.
+info: Oct-26-2024 15:34:34: 	db connected
+error: Oct-26-2024 23:52:24: 	string violation: bankDetails cannot be an array or an object
+error: Oct-26-2024 23:52:27: 	string violation: bankDetails cannot be an array or an object
+error: Oct-26-2024 23:52:51: 	string violation: bankDetails cannot be an array or an object
+error: Oct-27-2024 00:08:46: 	Validation error
+error: Oct-27-2024 00:08:47: 	Validation error
+error: Oct-27-2024 00:08:47: 	Validation error
+error: Oct-27-2024 00:08:47: 	Validation error
+error: Oct-27-2024 10:27:55: 	Validation error
+error: Oct-28-2024 09:40:25: 	Validation error
+error: Oct-28-2024 09:40:30: 	Validation error
+error: Oct-28-2024 09:40:31: 	Validation error
+error: Oct-28-2024 09:40:31: 	Validation error
+error: Oct-28-2024 09:40:31: 	Validation error
+error: Oct-28-2024 09:40:33: 	Validation error
+error: Oct-28-2024 09:41:11: 	Validation error
