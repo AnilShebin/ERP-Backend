@@ -1,0 +1,14 @@
+[
+    {
+        "first_name": "Anil",
+        "last_name": "Shebin S J",
+        "email": "anil.sj@example.com", 
+        "staff_id": "1001",
+        "phone": "94878274659",
+        "password": "Admin@123",
+        "isVerified": true,
+        "gender": "Male",  
+        "designation": "Super Admin",  
+        "documents_collected": true  
+    }
+]
