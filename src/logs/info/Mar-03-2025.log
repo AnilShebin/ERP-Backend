@@ -1,0 +1,24 @@
+info: Mar-03-2025 16:49:59: 	server is running on http:/localhost:3000
+error: Mar-03-2025 16:50:02: 	Error in connecting database:  getaddrinfo ENOTFOUND salon_bot
+info: Mar-03-2025 16:59:01: 	server is running on http:/localhost:3001
+info: Mar-03-2025 16:59:04: 	Super Admin seeded successfully.
+info: Mar-03-2025 16:59:04: 	db connected
+info: Mar-03-2025 16:59:39: 	server is running on http:/localhost:3001
+info: Mar-03-2025 16:59:42: 	1 Super Admin(s) already exist.
+info: Mar-03-2025 16:59:42: 	Super Admin seeded successfully.
+info: Mar-03-2025 16:59:42: 	db connected
+info: Mar-03-2025 17:00:11: 	server is running on http:/localhost:3001
+info: Mar-03-2025 17:00:14: 	1 Super Admin(s) already exist.
+info: Mar-03-2025 17:00:14: 	Super Admin seeded successfully.
+info: Mar-03-2025 17:00:14: 	db connected
+info: Mar-03-2025 17:00:17: 	server is running on http:/localhost:3001
+info: Mar-03-2025 17:00:20: 	server is running on http:/localhost:3001
+info: Mar-03-2025 17:00:25: 	server is running on http:/localhost:3001
+info: Mar-03-2025 17:00:27: 	1 Super Admin(s) already exist.
+info: Mar-03-2025 17:00:27: 	Super Admin seeded successfully.
+info: Mar-03-2025 17:00:27: 	db connected
+info: Mar-03-2025 17:00:30: 	server is running on http:/localhost:3001
+info: Mar-03-2025 17:00:34: 	server is running on http:/localhost:3001
+info: Mar-03-2025 17:00:36: 	1 Super Admin(s) already exist.
+info: Mar-03-2025 17:00:36: 	Super Admin seeded successfully.
+info: Mar-03-2025 17:00:36: 	db connected
